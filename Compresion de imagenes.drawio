@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2019-11-12T19:44:22.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="-KXSPtabXwm-l1tvbDau" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-12T19:45:13.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="14-Eu6uRVGIzFJZDfE0e" version="12.2.4" type="github" pages="1">
   <diagram id="e2JxcQoUcObaSHU3J7rH" name="compresion de imagenes">
-    <mxGraphModel dx="1695" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2563" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="pg1GNtDLIAZWHFflcBJw-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCFCFC;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-300" width="1540" height="670" as="geometry"/>
+        </mxCell>
         <mxCell id="pg1GNtDLIAZWHFflcBJw-26" value="Aplicativos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCFCFC;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="960" y="20" width="316" height="310" as="geometry"/>
         </mxCell>
