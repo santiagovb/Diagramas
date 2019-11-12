@@ -1,26 +1,26 @@
-<mxfile host="www.draw.io" modified="2019-11-12T17:22:42.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="b4VJ0g4W7f4qcIIZWu1B" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-12T17:24:05.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="E4KJOHnzN9WYhWJ9r-JS" version="12.2.4" type="github" pages="1">
   <diagram id="e2JxcQoUcObaSHU3J7rH" name="Page-1">
     <mxGraphModel dx="1695" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="j9nQY68hJNZJPsO3J41X-25" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="10" width="840" height="330" as="geometry"/>
+          <mxGeometry x="-220" y="10" width="720" height="330" as="geometry"/>
         </mxCell>
         <mxCell id="j9nQY68hJNZJPsO3J41X-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9nQY68hJNZJPsO3J41X-23" target="j9nQY68hJNZJPsO3J41X-26">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="j9nQY68hJNZJPsO3J41X-23" value="Publicar" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="500" y="74" width="200" height="200" as="geometry"/>
+          <mxGeometry x="520" y="75" width="200" height="200" as="geometry"/>
         </mxCell>
         <mxCell id="j9nQY68hJNZJPsO3J41X-26" value="Politica de restriccion de tamaño" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="752" y="157" width="188" height="34" as="geometry"/>
+          <mxGeometry x="772" y="158" width="188" height="34" as="geometry"/>
         </mxCell>
         <mxCell id="j9nQY68hJNZJPsO3J41X-11" value="Comprimir" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacing=9;" vertex="1" parent="1">
           <mxGeometry x="20" y="65" width="390" height="245" as="geometry"/>
         </mxCell>
         <mxCell id="DveL6Qa_2de0kUzdGoFX-8" value="Oracle WCC" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDbServer;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="530" y="90" width="139" height="151" as="geometry"/>
+          <mxGeometry x="550" y="91" width="139" height="151" as="geometry"/>
         </mxCell>
         <mxCell id="j9nQY68hJNZJPsO3J41X-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DveL6Qa_2de0kUzdGoFX-16" target="j9nQY68hJNZJPsO3J41X-2">
           <mxGeometry relative="1" as="geometry"/>
@@ -28,7 +28,7 @@
         <mxCell id="DveL6Qa_2de0kUzdGoFX-16" value="IMG={&lt;br&gt;tipo:PDFA&lt;br&gt;tamaño: Xmb&lt;br&gt;}" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/small-n-flat/24/image-128.png" parent="1" vertex="1">
           <mxGeometry x="30" y="125" width="98" height="98" as="geometry"/>
         </mxCell>
-        <mxCell id="j9nQY68hJNZJPsO3J41X-12" value="Para" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="j9nQY68hJNZJPsO3J41X-12" value="Para" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="j9nQY68hJNZJPsO3J41X-23">
           <mxGeometry x="0.04" y="15" relative="1" as="geometry">
             <mxPoint x="375" y="175" as="sourcePoint"/>
             <mxPoint x="500" y="175" as="targetPoint"/>
@@ -61,7 +61,7 @@
           <mxGeometry x="-160" y="162.5" width="47.5" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="j9nQY68hJNZJPsO3J41X-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/small-n-flat/24/image-128.png" vertex="1" parent="1">
-          <mxGeometry x="582" y="100" width="38" height="38" as="geometry"/>
+          <mxGeometry x="602" y="101" width="38" height="38" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
