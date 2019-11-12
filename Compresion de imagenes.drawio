@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-12T17:22:10.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="OdfP5XDaQhMpIS7d7gZS" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-12T17:22:42.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="b4VJ0g4W7f4qcIIZWu1B" version="12.2.4" type="github" pages="1">
   <diagram id="e2JxcQoUcObaSHU3J7rH" name="Page-1">
     <mxGraphModel dx="1695" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="500" y="74" width="200" height="200" as="geometry"/>
         </mxCell>
         <mxCell id="j9nQY68hJNZJPsO3J41X-26" value="Politica de restriccion de tamaño" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="752" y="157" width="200" height="34" as="geometry"/>
+          <mxGeometry x="752" y="157" width="188" height="34" as="geometry"/>
         </mxCell>
         <mxCell id="j9nQY68hJNZJPsO3J41X-11" value="Comprimir" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacing=9;" vertex="1" parent="1">
           <mxGeometry x="20" y="65" width="390" height="245" as="geometry"/>
