@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-29T21:08:23.627Z" agent="5.0 (X11)" etag="iQYfce4TcSJlNCBzNPa9" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-29T21:09:43.540Z" agent="5.0 (X11)" etag="nDA3nzdeZ8zUhBnFjpOx" version="12.9.4" type="github">
   <diagram id="aiYzyHz4knJhrEacl6yn" name="Arquitectura de la aplicacion">
-    <mxGraphModel dx="3147" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2458" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
