@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-29T22:17:28.493Z" agent="5.0 (X11)" etag="HMp8uA--a0gKiwEzvE_b" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-30T00:08:07.073Z" agent="5.0 (X11)" etag="2FZXP9F6aS747-nA_Rdr" version="12.9.4" type="github">
   <diagram id="aiYzyHz4knJhrEacl6yn" name="Arquitectura de la aplicacion">
-    <mxGraphModel dx="2458" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2190" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -576,7 +576,7 @@
           <mxGeometry x="671.75" y="2587.5" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="g_mr7e5_IvXW6hVq6LJB-327" value="Consola de administración" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="939.75" y="2400" width="275" height="20" as="geometry" />
+          <mxGeometry x="939.75" y="2400" width="240.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g_mr7e5_IvXW6hVq6LJB-328" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="940.75" y="2547" width="868" height="393" as="geometry" />
@@ -1667,6 +1667,33 @@
         </mxCell>
         <mxCell id="x3bxrRNxtwDTlaf9q2ge-51" value="Crear producto" style="rounded=1;fillColor=#cce5ff;strokeColor=#36393d;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="954.25" y="3740" width="86" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="x3bxrRNxtwDTlaf9q2ge-52" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="1310" width="180" height="328" as="geometry" />
+        </mxCell>
+        <mxCell id="x3bxrRNxtwDTlaf9q2ge-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="x3bxrRNxtwDTlaf9q2ge-52">
+          <mxGeometry width="180" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="x3bxrRNxtwDTlaf9q2ge-54" value="imagen" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/essentials-4/1755/tshirt-128.png;fontStyle=1" vertex="1" parent="x3bxrRNxtwDTlaf9q2ge-52">
+          <mxGeometry x="26" y="81" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="x3bxrRNxtwDTlaf9q2ge-55" value="&lt;div&gt;Nombre&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="x3bxrRNxtwDTlaf9q2ge-52">
+          <mxGeometry x="65" y="17" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x3bxrRNxtwDTlaf9q2ge-56" value="&lt;div&gt;Descripción&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="x3bxrRNxtwDTlaf9q2ge-52">
+          <mxGeometry x="50" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x3bxrRNxtwDTlaf9q2ge-57" value="Unidades disponibles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="x3bxrRNxtwDTlaf9q2ge-52">
+          <mxGeometry x="26" y="234" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x3bxrRNxtwDTlaf9q2ge-58" value="$ precio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="x3bxrRNxtwDTlaf9q2ge-52">
+          <mxGeometry x="25" y="254" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x3bxrRNxtwDTlaf9q2ge-59" value="agregar al carrito" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cce5ff;" vertex="1" parent="x3bxrRNxtwDTlaf9q2ge-52">
+          <mxGeometry x="30" y="274.00000000000006" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="x3bxrRNxtwDTlaf9q2ge-60" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essentials-pack/96/cursor_click_pointer_mouse_select-128.png;strokeColor=#000000;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="x3bxrRNxtwDTlaf9q2ge-52">
+          <mxGeometry x="134.24999999999997" y="290" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
