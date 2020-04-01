@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-31T02:43:33.468Z" agent="5.0 (X11)" etag="Lm3b6G5DI49quwdh35uR" version="12.9.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-01T01:33:00.165Z" agent="5.0 (X11)" etag="nw20F6b_3A1WvG7ldi8w" version="12.9.6" type="github" pages="2">
   <diagram id="aiYzyHz4knJhrEacl6yn" name="Arquitectura de la aplicacion">
-    <mxGraphModel dx="1669" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2215" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1129,7 +1129,7 @@
         <mxCell id="g_mr7e5_IvXW6hVq6LJB-783" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2450" y="1833" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g_mr7e5_IvXW6hVq6LJB-796" value="Página Producto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="g_mr7e5_IvXW6hVq6LJB-796" value="&lt;div&gt;Página Factura&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1970" y="1750" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g_mr7e5_IvXW6hVq6LJB-798" value="Total articulos" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
