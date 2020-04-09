@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-09T22:24:45.954Z" agent="5.0 (X11)" etag="Lf1bmNcF1ggWKY4h-owd" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-09T22:24:53.853Z" agent="5.0 (X11)" etag="ss_euDNS4otdLps62AJw" version="12.9.10" type="github">
   <diagram id="aiYzyHz4knJhrEacl6yn" name="Arquitectura de la aplicacion">
     <mxGraphModel dx="2020" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1435,19 +1435,6 @@
         </mxCell>
         <mxCell id="x3bxrRNxtwDTlaf9q2ge-15" value="descripción" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#d5e8d4;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1008" y="1920" width="112.25" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="x3bxrRNxtwDTlaf9q2ge-25" value="m" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f8cecc;strokeColor=#b85450;align=left;spacing=15;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1032.25" y="1690" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x3bxrRNxtwDTlaf9q2ge-26" value="" style="shape=triangle;direction=south;fillColor=#343A40;strokeColor=none;perimeter=none;" parent="x3bxrRNxtwDTlaf9q2ge-25" vertex="1">
-          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
-            <mxPoint x="-17" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x3bxrRNxtwDTlaf9q2ge-27" value="" style="shape=triangle;direction=north;fillColor=#343A40;strokeColor=none;perimeter=none;" parent="x3bxrRNxtwDTlaf9q2ge-25" vertex="1">
-          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
-            <mxPoint x="-17" y="-4" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="x3bxrRNxtwDTlaf9q2ge-50" value="Crear producto" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="952.25" y="3150" width="86" height="33" as="geometry" />
