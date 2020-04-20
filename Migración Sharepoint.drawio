@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-20T16:37:05.774Z" agent="5.0 (X11)" etag="DPJAiiNSmBO7rkJIw2ln" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-20T16:41:04.348Z" agent="5.0 (X11)" etag="zTN44JsfEyspYRBWgCWw" version="12.9.12" type="github">
   <diagram id="ECPDqdnc7cHBjmwrn0tu" name="Page-1">
     <mxGraphModel dx="2020" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,9 +9,11 @@
             <mxGeometry x="-150" y="430" width="500" height="300" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="IdGF0xGDb7yDM2XSlmW7-31" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="-100" width="1040" height="480" as="geometry" />
-        </mxCell>
+        <object label="" Descripción="Para este escenario es necesario realizar una configuración mas compleja debido a que es necesario realizar configuraciones aws-Bancolombia a nivel de firewall." id="IdGF0xGDb7yDM2XSlmW7-31">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+            <mxGeometry x="-150" y="-100" width="1040" height="480" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="OwxsT6g48_Clc__AVW-o-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;align=left;" vertex="1" parent="1">
           <mxGeometry x="497" y="-21" width="213" height="150" as="geometry" />
         </mxCell>
