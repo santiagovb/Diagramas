@@ -1,6 +1,6 @@
-<mxfile modified="2020-10-07T14:56:07.188Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="sRjqUrxeO_E8m2VrjlzG" version="13.7.6" type="github" pages="5">
+<mxfile modified="2021-06-18T21:01:33.140Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="E7H0E5xWU_HeCtRtDs9r" version="14.8.0" type="github" pages="4">
   <diagram id="Cvd08sUy3_cwQwUcyKUf" name="Blockchain">
-    <mxGraphModel dx="1666" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ZOAcsNDLfOZwkbrGFhGf-0" />
         <mxCell id="ZOAcsNDLfOZwkbrGFhGf-1" parent="ZOAcsNDLfOZwkbrGFhGf-0" />
@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="38pyQoBdHeM7QDQjrm07" name="kinesis kafka">
-    <mxGraphModel dx="1666" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1342" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2iwqPlC2K_L6OWkkNQEc-0" />
         <mxCell id="2iwqPlC2K_L6OWkkNQEc-1" parent="2iwqPlC2K_L6OWkkNQEc-0" />
@@ -142,7 +142,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QpmW38YUYiOE0_jPXyjQ" name="Kryon">
-    <mxGraphModel dx="1666" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1342" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ebg2TmxCD_4IROwZKnO8-0" />
         <mxCell id="Ebg2TmxCD_4IROwZKnO8-1" parent="Ebg2TmxCD_4IROwZKnO8-0" />
@@ -205,7 +205,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lVQevA_QMaPP6eJWwcxG" name="Murex powerbi">
-    <mxGraphModel dx="2516" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2192" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="iZFn3_BG1w_AQUt21W4H-0" />
         <mxCell id="iZFn3_BG1w_AQUt21W4H-1" parent="iZFn3_BG1w_AQUt21W4H-0" />
@@ -379,29 +379,6 @@
         </mxCell>
         <mxCell id="Zomnwrx8_NPZLWKnc6lE-24" value="&lt;font color=&quot;#000000&quot;&gt;Firewall&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="iZFn3_BG1w_AQUt21W4H-1" vertex="1">
           <mxGeometry x="-380" y="142.25" width="100" height="100" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="969WIJudUAmdKjj78Rrp" name="Carta laboral">
-    <mxGraphModel dx="1666" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="bSd8PX85g_VyZNh2Rjsc-0" />
-        <mxCell id="bSd8PX85g_VyZNh2Rjsc-1" parent="bSd8PX85g_VyZNh2Rjsc-0" />
-        <mxCell id="bSd8PX85g_VyZNh2Rjsc-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bSd8PX85g_VyZNh2Rjsc-1">
-          <mxGeometry x="60" y="60" width="400" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="bSd8PX85g_VyZNh2Rjsc-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bSd8PX85g_VyZNh2Rjsc-1">
-          <mxGeometry x="90" y="70" width="340" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bSd8PX85g_VyZNh2Rjsc-4" value="inicio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bSd8PX85g_VyZNh2Rjsc-1">
-          <mxGeometry x="100" y="70" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bSd8PX85g_VyZNh2Rjsc-5" value="mensajes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bSd8PX85g_VyZNh2Rjsc-1">
-          <mxGeometry x="190" y="70" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bSd8PX85g_VyZNh2Rjsc-6" value="amigos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bSd8PX85g_VyZNh2Rjsc-1">
-          <mxGeometry x="280" y="70" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
