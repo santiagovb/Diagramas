@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-18T21:08:28.240Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="6eItBNcuUZaB9xeoCE1-" version="14.8.0" type="github" pages="6">
+<mxfile modified="2021-06-18T21:14:39.991Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="Qg-Prcb_aO60t4xq4lmD" version="14.8.0" type="github" pages="7">
   <diagram id="Cvd08sUy3_cwQwUcyKUf" name="Blockchain">
     <mxGraphModel dx="1342" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -743,6 +743,125 @@
         </mxCell>
         <mxCell id="-7MBcmgKfn_7qJjDeszK-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-7MBcmgKfn_7qJjDeszK-1" source="-7MBcmgKfn_7qJjDeszK-95" target="-7MBcmgKfn_7qJjDeszK-97">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IAG6C6AS1KfAFkW21Mne" name="Credito de vivienda flujo">
+    <mxGraphModel dx="1342" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-0" />
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-1" parent="QiLQb6vFjHOS3ztWPfX8-0" />
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-3" target="QiLQb6vFjHOS3ztWPfX8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-3" value="Solicitar crédito por sap" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-5" target="QiLQb6vFjHOS3ztWPfX8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-5" value="Visto bueno" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+          <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-7" target="QiLQb6vFjHOS3ztWPfX8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-7" value="Envió de documentos pic" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+          <mxGeometry x="358" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-9" target="QiLQb6vFjHOS3ztWPfX8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-9" value="Aprobacion pic" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-11" target="QiLQb6vFjHOS3ztWPfX8-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-11" value="Aprobacion pic" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+          <mxGeometry x="660" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=1;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-13" target="QiLQb6vFjHOS3ztWPfX8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-13" value="Preguntar como se realiza el peritage(guaduales) cuando se podría ir" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+          <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-15" target="QiLQb6vFjHOS3ztWPfX8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Peritage" Nota="En proceso 30/07/2018" Notas="Si el valor del inmueble es muy costoso el valor de los documentos de escrituración también" id="QiLQb6vFjHOS3ztWPfX8-15">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+            <mxGeometry x="353" y="130" width="56" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-17" target="QiLQb6vFjHOS3ztWPfX8-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Abogado" Nota="El abogado se comunica conmigo" id="QiLQb6vFjHOS3ztWPfX8-17">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+            <mxGeometry x="210" y="130" width="80" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-19" target="QiLQb6vFjHOS3ztWPfX8-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Escrituracion" Nota="El costo de este documento es de 1800000" id="QiLQb6vFjHOS3ztWPfX8-19">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+            <mxGeometry x="80" y="220" width="80" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-21" target="QiLQb6vFjHOS3ztWPfX8-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Entrega de apartamento" Nota="El costo de este documento es de 1800000" id="QiLQb6vFjHOS3ztWPfX8-21">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+            <mxGeometry x="210" y="220" width="80" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-23" target="QiLQb6vFjHOS3ztWPfX8-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="entrega de parqueadero" Nota="El costo de este documento es de 1800000" id="QiLQb6vFjHOS3ztWPfX8-23">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+            <mxGeometry x="370" y="220" width="80" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="desembolso de crédito" Nota="El costo de este documento es de 1800000" id="QiLQb6vFjHOS3ztWPfX8-24">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+            <mxGeometry x="530" y="220" width="80" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-26" target="QiLQb6vFjHOS3ztWPfX8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Pagar perito" Nota="En proceso 30/07/2018" id="QiLQb6vFjHOS3ztWPfX8-26">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+            <mxGeometry x="435" y="130" width="56" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.75;exitY=0;entryX=0.75;entryY=0;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-26" target="QiLQb6vFjHOS3ztWPfX8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-28" value="Nota" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+          <mxGeometry x="350" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-29" value="Pendiente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+          <mxGeometry x="200" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-30" value="En proceso" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+          <mxGeometry x="60" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="QiLQb6vFjHOS3ztWPfX8-1" source="QiLQb6vFjHOS3ztWPfX8-32" target="QiLQb6vFjHOS3ztWPfX8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLQb6vFjHOS3ztWPfX8-32" value="Recepción de cita para la firma de escrituras" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="QiLQb6vFjHOS3ztWPfX8-1">
+          <mxGeometry x="60" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
