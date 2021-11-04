@@ -1,62 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T00:02:49.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ra-IJKHPEwHOLkoLJFhz" version="15.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-04T00:45:38.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="X8QmgvDviKPJzrt-amAU" version="15.6.8" type="github" pages="2">
   <diagram id="2-0mmxwdgoLzmRiu0fsF" name="dia a dia">
-    <mxGraphModel dx="723" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yNGvCTk1V_gINGqABnyL-0" />
         <mxCell id="yNGvCTk1V_gINGqABnyL-1" parent="yNGvCTk1V_gINGqABnyL-0" />
         <mxCell id="1M6lVSq16ZduSRRAVL-M-0" value="Johnathan power bi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
           <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H3Q4ioqLagcHq7i6xyze-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yNGvCTk1V_gINGqABnyL-1" source="1M6lVSq16ZduSRRAVL-M-1" target="H3Q4ioqLagcHq7i6xyze-0">
+        <mxCell id="H3Q4ioqLagcHq7i6xyze-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yNGvCTk1V_gINGqABnyL-1" source="1M6lVSq16ZduSRRAVL-M-1" target="H3Q4ioqLagcHq7i6xyze-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1M6lVSq16ZduSRRAVL-M-1" value="Juan Camilo Palomares" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
-          <mxGeometry x="10" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1M6lVSq16ZduSRRAVL-M-3" value="Revisar correos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
-          <mxGeometry x="10" y="729" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1M6lVSq16ZduSRRAVL-M-5" value="Tavo revisar documento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
-          <mxGeometry x="10" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="1M6lVSq16ZduSRRAVL-M-5" value="Tavo revisar documento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
+          <mxGeometry x="10" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1M6lVSq16ZduSRRAVL-M-7" value="Trabajar en los nuevos reportes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
-          <mxGeometry x="10" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ueY2YAWh7VIx71RtlcES-0" value="Comunicarme con la gente de sre" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="yNGvCTk1V_gINGqABnyL-1">
-          <mxGeometry x="10" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="ueY2YAWh7VIx71RtlcES-0" value="Comunicarme con la gente de sre" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
+          <mxGeometry x="10" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="comunicarme con Adriana" Nota="Tiene una reunion que la contacte a las 11" id="ueY2YAWh7VIx71RtlcES-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yNGvCTk1V_gINGqABnyL-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
             <mxGeometry x="10" y="80" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ueY2YAWh7VIx71RtlcES-2" value="Revisar el link que me mando Camilo Machado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yNGvCTk1V_gINGqABnyL-1">
-          <mxGeometry x="10" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="ueY2YAWh7VIx71RtlcES-2" value="Revisar el link que me mando Camilo Machado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
+          <mxGeometry x="10" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H3Q4ioqLagcHq7i6xyze-0" value="Esta Reunión con Claudia no se dio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="yNGvCTk1V_gINGqABnyL-1">
-          <mxGeometry x="160" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="H3Q4ioqLagcHq7i6xyze-0" value="Esta Reunión con Claudia no se dio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
+          <mxGeometry x="210" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H3Q4ioqLagcHq7i6xyze-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yNGvCTk1V_gINGqABnyL-1" source="H3Q4ioqLagcHq7i6xyze-2" target="H3Q4ioqLagcHq7i6xyze-3">
+        <mxCell id="H3Q4ioqLagcHq7i6xyze-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yNGvCTk1V_gINGqABnyL-1" source="H3Q4ioqLagcHq7i6xyze-2" target="H3Q4ioqLagcHq7i6xyze-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H3Q4ioqLagcHq7i6xyze-2" value="Definir como sera la presentacion de mañana" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="yNGvCTk1V_gINGqABnyL-1">
-          <mxGeometry x="10" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="H3Q4ioqLagcHq7i6xyze-2" value="Definir como será la presentación de mañana" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
+          <mxGeometry x="10" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H3Q4ioqLagcHq7i6xyze-3" value="Esta tarea debe quedar lista" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="yNGvCTk1V_gINGqABnyL-1">
-          <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="H3Q4ioqLagcHq7i6xyze-3" value="Esta tarea debe quedar lista" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
+          <mxGeometry x="210" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="Atender licencias lucid" Nota="Tiene una reunion que la contacte a las 11" id="H3Q4ioqLagcHq7i6xyze-5">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yNGvCTk1V_gINGqABnyL-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
             <mxGeometry x="10" y="150" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="Solicitar nuevas licencias lucidchart" Nota="Tiene una reunion que la contacte a las 11" id="H3Q4ioqLagcHq7i6xyze-6">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yNGvCTk1V_gINGqABnyL-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
             <mxGeometry x="10" y="220" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="H3Q4ioqLagcHq7i6xyze-8" value="Revisar el tema de software de negocio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="yNGvCTk1V_gINGqABnyL-1">
-          <mxGeometry x="10" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="H3Q4ioqLagcHq7i6xyze-8" value="Revisar el tema de software de negocio con Johnathan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yNGvCTk1V_gINGqABnyL-1" vertex="1">
+          <mxGeometry x="210" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwWLb1CdJLh-gql79gUk-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yNGvCTk1V_gINGqABnyL-1" source="EwWLb1CdJLh-gql79gUk-0" target="EwWLb1CdJLh-gql79gUk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwWLb1CdJLh-gql79gUk-0" value="Citar a ciberseguridad tema SAAS evaluar antes de llegar a abastecimiento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yNGvCTk1V_gINGqABnyL-1">
+          <mxGeometry x="10" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwWLb1CdJLh-gql79gUk-1" value="Castillo, Alejandro&lt;br/&gt;Escobar Suceba, Andres David&lt;br/&gt;Giraldo Jimenez, Daniela&lt;br/&gt;Garcia Acevedo, Alejandro&lt;br/&gt;Lancheros Alvarez, Mauricio Andres" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yNGvCTk1V_gINGqABnyL-1">
+          <mxGeometry x="210" y="250" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
