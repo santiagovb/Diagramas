@@ -1,6 +1,6 @@
-<mxfile modified="2021-06-18T21:17:36.131Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="bDVcuAyHkU75ZGIo3s8t" version="14.8.0" type="github" pages="4">
+<mxfile modified="2021-11-06T19:06:43.994Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="f7BM89CtULAly7nypC7n" version="15.6.8" type="github" pages="4">
   <diagram id="db4f26c5-7e97-36fc-1c49-11529cdbadb5" name="Estrategia aprtamento">
-    <mxGraphModel dx="5545" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5520" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
         <mxCell id="wRmVfxeQ_j1PtTqiCp-a-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;" parent="1" source="52" target="54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="52" value="&lt;font color=&quot;#000000&quot;&gt;Baño&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeWidth=2;fillColor=#f8cecc;fontSize=18;align=center;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="52" value="&lt;font color=&quot;#000000&quot;&gt;Baño&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeWidth=2;fillColor=#d5e8d4;fontSize=18;align=center;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-350" y="263.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIK6S5eHTyN0tNIqzzd0-286" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="54" target="PIK6S5eHTyN0tNIqzzd0-285" edge="1">
@@ -121,7 +121,7 @@
         <mxCell id="WU6L7vgBvMiv-qLixpYz-286" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WU6L7vgBvMiv-qLixpYz-283" target="WU6L7vgBvMiv-qLixpYz-285" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WU6L7vgBvMiv-qLixpYz-283" value="Espejo baño" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeWidth=2;fillColor=#f8cecc;fontSize=18;align=center;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="WU6L7vgBvMiv-qLixpYz-283" value="Espejo baño" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeWidth=2;fillColor=#d5e8d4;fontSize=18;align=center;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-370" y="685" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WU6L7vgBvMiv-qLixpYz-285" value="lavamanos" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeWidth=2;fillColor=#d5e8d4;fontSize=18;align=center;strokeColor=#82b366;" parent="1" vertex="1">
@@ -1066,7 +1066,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="704d715e-2ceb-9827-1ce7-9d17b452be67" name="Ventas">
-    <mxGraphModel dx="7490" dy="1455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="6347" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1207,7 +1207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="30857fd7-0944-de43-3c0d-0ae0ddad98ba" name="Plan_Formacion">
-    <mxGraphModel dx="2169" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1933" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1292,39 +1292,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XIll68xbwzoYnztOQkiq" name="plan a 5 años">
-    <mxGraphModel dx="1342" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Lj5555FFo3uF8Vb85UQu-0" />
         <mxCell id="Lj5555FFo3uF8Vb85UQu-1" parent="Lj5555FFo3uF8Vb85UQu-0" />
-        <mxCell id="4OZGwbl7M5q1Kl731x_A-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Lj5555FFo3uF8Vb85UQu-1" source="Lj5555FFo3uF8Vb85UQu-4" target="4OZGwbl7M5q1Kl731x_A-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Lj5555FFo3uF8Vb85UQu-4" value="Finca" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Lj5555FFo3uF8Vb85UQu-1" vertex="1">
-          <mxGeometry x="100" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lj5555FFo3uF8Vb85UQu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="Lj5555FFo3uF8Vb85UQu-1" source="Lj5555FFo3uF8Vb85UQu-6" target="Lj5555FFo3uF8Vb85UQu-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lj5555FFo3uF8Vb85UQu-6" value="Pagar segundo apartamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Lj5555FFo3uF8Vb85UQu-1" vertex="1">
-          <mxGeometry x="100" y="206" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="206" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4OZGwbl7M5q1Kl731x_A-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Lj5555FFo3uF8Vb85UQu-1" source="Lj5555FFo3uF8Vb85UQu-12" target="Lj5555FFo3uF8Vb85UQu-6">
+        <mxCell id="4OZGwbl7M5q1Kl731x_A-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Lj5555FFo3uF8Vb85UQu-1" source="Lj5555FFo3uF8Vb85UQu-12" target="Lj5555FFo3uF8Vb85UQu-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lj5555FFo3uF8Vb85UQu-12" value="pagar Apartamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Lj5555FFo3uF8Vb85UQu-1" vertex="1">
-          <mxGeometry x="100" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="Lj5555FFo3uF8Vb85UQu-12" value="pagar Apartamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Lj5555FFo3uF8Vb85UQu-1" vertex="1">
+          <mxGeometry x="150" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lj5555FFo3uF8Vb85UQu-18" value="Plan a 5 años-18/06/2021" style="rounded=1;whiteSpace=wrap;html=1;" parent="Lj5555FFo3uF8Vb85UQu-1" vertex="1">
-          <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4OZGwbl7M5q1Kl731x_A-2" value="Maestria" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Lj5555FFo3uF8Vb85UQu-1">
-          <mxGeometry x="100" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="4OZGwbl7M5q1Kl731x_A-2" value="Maestria" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Lj5555FFo3uF8Vb85UQu-1" vertex="1">
+          <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4OZGwbl7M5q1Kl731x_A-5" value="Plan a 5 años-18/06/2026" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Lj5555FFo3uF8Vb85UQu-1">
-          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="4OZGwbl7M5q1Kl731x_A-5" value="Plan a 5 años-18/06/2026" style="rounded=1;whiteSpace=wrap;html=1;" parent="Lj5555FFo3uF8Vb85UQu-1" vertex="1">
+          <mxGeometry x="310" y="206" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4OZGwbl7M5q1Kl731x_A-6" value="Plan a 5 años-18/06/2030" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Lj5555FFo3uF8Vb85UQu-1">
-          <mxGeometry x="260" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="4OZGwbl7M5q1Kl731x_A-6" value="Plan a 5 años-18/06/2030" style="rounded=1;whiteSpace=wrap;html=1;" parent="Lj5555FFo3uF8Vb85UQu-1" vertex="1">
+          <mxGeometry x="310" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
