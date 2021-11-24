@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-24T14:48:11.702Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="bXZZ4RZ5jjpVxrBSvvbN" version="15.8.5" type="github" pages="10">
+<mxfile modified="2021-11-24T14:49:22.322Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="6F9OtrmPE6mnCvIR0Iln" version="15.8.5" type="github" pages="10">
   <diagram id="aDRcD-OCR-D2pBTEtcaA" name="Nueva forma de trabajo en arquitectura">
     <mxGraphModel dx="2123" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,24 +241,24 @@
           <mxGeometry x="1421" y="196" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JM2KX6JGQ-DQPq9tDSef-0" value="Despliegue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;sketch=1;fontSize=17;" parent="fcsRiCT0Gskf_jtSQJqR-1" vertex="1">
-          <mxGeometry x="995.5" y="680" width="400" height="420" as="geometry" />
+          <mxGeometry x="995.5" y="710" width="400" height="360" as="geometry" />
         </mxCell>
         <mxCell id="JM2KX6JGQ-DQPq9tDSef-1" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Autorización&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;sketch=1;fontSize=13;" parent="fcsRiCT0Gskf_jtSQJqR-1" vertex="1">
-          <mxGeometry x="690" y="680" width="250" height="350" as="geometry" />
+          <mxGeometry x="690" y="702" width="250" height="330" as="geometry" />
         </mxCell>
         <mxCell id="JM2KX6JGQ-DQPq9tDSef-2" value="update" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;sketch=1;fontSize=13;" parent="fcsRiCT0Gskf_jtSQJqR-1" vertex="1">
-          <mxGeometry x="760" y="950.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="760" y="952.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JM2KX6JGQ-DQPq9tDSef-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;fontSize=13;" parent="fcsRiCT0Gskf_jtSQJqR-1" source="JM2KX6JGQ-DQPq9tDSef-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790.0000000000002" y="950.0000000000005" as="targetPoint" />
+            <mxPoint x="790.0000000000002" y="952.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JM2KX6JGQ-DQPq9tDSef-6" value="cod" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;fontSize=13;" parent="fcsRiCT0Gskf_jtSQJqR-1" source="JM2KX6JGQ-DQPq9tDSef-7" target="JM2KX6JGQ-DQPq9tDSef-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JM2KX6JGQ-DQPq9tDSef-7" value="cmdb" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" parent="fcsRiCT0Gskf_jtSQJqR-1" vertex="1">
-          <mxGeometry x="730" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="742" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JM2KX6JGQ-DQPq9tDSef-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;fontSize=13;" parent="fcsRiCT0Gskf_jtSQJqR-1" source="JM2KX6JGQ-DQPq9tDSef-9" target="JM2KX6JGQ-DQPq9tDSef-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -278,7 +278,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JM2KX6JGQ-DQPq9tDSef-19" value="Datos Basicos de la aplicación" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=13;" parent="fcsRiCT0Gskf_jtSQJqR-1" vertex="1">
-          <mxGeometry x="790" y="840" width="60" height="60" as="geometry" />
+          <mxGeometry x="790" y="842" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfB033_NJV-MLZXwpgDe-4" value="Infraestructura" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;horizontal=0;" parent="fcsRiCT0Gskf_jtSQJqR-1" vertex="1">
           <mxGeometry x="1377" y="56" width="34" height="206" as="geometry" />
@@ -380,7 +380,7 @@
           <mxGeometry x="840" y="1600" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cfB033_NJV-MLZXwpgDe-69" value="Requerimientos&lt;br&gt;El dueño de la cmdb&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontFamily=Helvetica;fontSize=13;strokeWidth=1;fillColor=none;align=center;verticalAlign=top;" parent="fcsRiCT0Gskf_jtSQJqR-1" vertex="1">
-          <mxGeometry x="520" y="1630" width="210" height="490" as="geometry" />
+          <mxGeometry x="520" y="1740" width="210" height="380" as="geometry" />
         </mxCell>
         <mxCell id="cfB033_NJV-MLZXwpgDe-74" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;" parent="fcsRiCT0Gskf_jtSQJqR-1" source="cfB033_NJV-MLZXwpgDe-70" target="cfB033_NJV-MLZXwpgDe-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
