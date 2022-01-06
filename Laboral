@@ -1,4 +1,4 @@
-<mxfile modified="2022-01-06T16:01:04.844Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-ofSH-9viXhYvWsj-_6G" version="16.2.2" type="github" pages="9">
+<mxfile modified="2022-01-06T16:01:11.233Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="DPloantyfWZKUSwwlsO8" version="16.2.2" type="github" pages="8">
   <diagram name="Contexto-Automatizacion" id="vYZrCMiRz6UuIVlf6yCb">
     <mxGraphModel dx="1102" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2305,14 +2305,6 @@
         <mxCell id="jTmpdgf7JHyHjhgBiT8A-39" value="Credito de vivienda flujo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="2iwqPlC2K_L6OWkkNQEc-1">
           <mxGeometry x="139.5" y="5980" width="249" height="60" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="IAG6C6AS1KfAFkW21Mne" name="Credito de vivienda flujo">
-    <mxGraphModel dx="1102" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="QiLQb6vFjHOS3ztWPfX8-0" />
-        <mxCell id="QiLQb6vFjHOS3ztWPfX8-1" parent="QiLQb6vFjHOS3ztWPfX8-0" />
       </root>
     </mxGraphModel>
   </diagram>
