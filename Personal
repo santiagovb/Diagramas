@@ -1,6 +1,6 @@
-<mxfile modified="2021-11-06T19:06:43.994Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="f7BM89CtULAly7nypC7n" version="15.6.8" type="github" pages="4">
+<mxfile modified="2022-02-28T19:54:06.367Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="zSefn6ux5YqhRUI_CU-C" version="16.6.4" type="github" pages="4">
   <diagram id="db4f26c5-7e97-36fc-1c49-11529cdbadb5" name="Estrategia aprtamento">
-    <mxGraphModel dx="5520" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4094" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1066,7 +1066,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="704d715e-2ceb-9827-1ce7-9d17b452be67" name="Ventas">
-    <mxGraphModel dx="6347" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4921" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1207,7 +1207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="30857fd7-0944-de43-3c0d-0ae0ddad98ba" name="Plan_Formacion">
-    <mxGraphModel dx="1933" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2256" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1288,11 +1288,91 @@
         <mxCell id="77" value="Construir un agente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-774.5" y="794" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="5Nu0FyUupxrJUkY4hrZR-81" target="5Nu0FyUupxrJUkY4hrZR-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-81" value="Html" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-358.25" y="-550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-82" value="css" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-558.25" y="-550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="5Nu0FyUupxrJUkY4hrZR-85" target="5Nu0FyUupxrJUkY4hrZR-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="5Nu0FyUupxrJUkY4hrZR-85" target="5Nu0FyUupxrJUkY4hrZR-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-698.3189655172414" y="-550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-85" value="DDD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-758.25" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="5Nu0FyUupxrJUkY4hrZR-88" target="5Nu0FyUupxrJUkY4hrZR-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="5Nu0FyUupxrJUkY4hrZR-88" target="5Nu0FyUupxrJUkY4hrZR-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-88" value="En proceso" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-558.25" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="5Nu0FyUupxrJUkY4hrZR-90" target="5Nu0FyUupxrJUkY4hrZR-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-90" value="Finalizado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-358.25" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-91" value="&lt;h3 id=&quot;cd69&quot;&gt;&lt;a href=&quot;https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Part 1: Why Machine Learning Matters&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-358.25" y="-470" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="5Nu0FyUupxrJUkY4hrZR-93" target="5Nu0FyUupxrJUkY4hrZR-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-93" value="&lt;h3 id=&quot;cd69&quot;&gt;&lt;a href=&quot;https://medium.com/@v_maini/supervised-learning-740383a2feab&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Part 2.1: Supervised Learning&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-758.75" y="-550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="5Nu0FyUupxrJUkY4hrZR-95" target="5Nu0FyUupxrJUkY4hrZR-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-95" value="&lt;h3 id=&quot;cd69&quot;&gt;&lt;a href=&quot;https://medium.com/@v_maini/supervised-learning-2-5c1c23f3560d&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Part 2.2: Supervised Learning II&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-758.75" y="-466" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="5Nu0FyUupxrJUkY4hrZR-97" target="5Nu0FyUupxrJUkY4hrZR-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-97" value="&lt;h3 id=&quot;cd69&quot;&gt;&lt;a href=&quot;https://medium.com/@v_maini/supervised-learning-3-b1551b9c4930&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Part 2.3: Supervised Learning III&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-758.75" y="-385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="5Nu0FyUupxrJUkY4hrZR-99" target="5Nu0FyUupxrJUkY4hrZR-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-99" value="&lt;h3 id=&quot;cd69&quot;&gt;&lt;a href=&quot;https://medium.com/@v_maini/unsupervised-learning-f45587588294&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Part 3: Unsupervised Learning&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-758.75" y="-305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="5Nu0FyUupxrJUkY4hrZR-101" target="5Nu0FyUupxrJUkY4hrZR-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-101" value="&lt;h3 id=&quot;cd69&quot;&gt;&lt;a href=&quot;https://medium.com/@v_maini/neural-networks-deep-learning-cdad8aeae49b&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Part 4: Neural Networks &amp;amp; Deep Learning&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-758.75" y="-215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="5Nu0FyUupxrJUkY4hrZR-103" target="5Nu0FyUupxrJUkY4hrZR-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-103" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Machine Learning&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span id=&quot;partner-names-description&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;por Universidad de Stanford&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-793.75" y="-120" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-104" value="Construir un agente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-756.75" y="-10" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nu0FyUupxrJUkY4hrZR-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="90" width="550" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="XIll68xbwzoYnztOQkiq" name="plan a 5 años">
-    <mxGraphModel dx="1106" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Lj5555FFo3uF8Vb85UQu-0" />
         <mxCell id="Lj5555FFo3uF8Vb85UQu-1" parent="Lj5555FFo3uF8Vb85UQu-0" />
