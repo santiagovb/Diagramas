@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T23:34:38.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="GdUZq4EMACJDzctHhVdy" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-25T23:35:21.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="Fyj9m_1equdWx7REgbFh" version="20.2.7" type="github" pages="2">
   <diagram id="9joGUydrtn-kThI4bQew" name="Estructura de la prueba">
     <mxGraphModel dx="786" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,11 +17,16 @@
           <mxGeometry x="174" y="120" width="170" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Y77LHZ3hvPIG6Uhx92q0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y77LHZ3hvPIG6Uhx92q0-1" target="Y77LHZ3hvPIG6Uhx92q0-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="190" />
+              <mxPoint x="400" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Y77LHZ3hvPIG6Uhx92q0-6" value="transacciones" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Y77LHZ3hvPIG6Uhx92q0-5" vertex="1" connectable="0">
           <mxGeometry x="-0.3769" y="-3" relative="1" as="geometry">
-            <mxPoint x="39" y="-3" as="offset" />
+            <mxPoint x="31" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y77LHZ3hvPIG6Uhx92q0-1" value="Mambu core" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
