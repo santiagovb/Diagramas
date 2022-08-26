@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T16:02:40.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="amuNfDeyrAyFxJ5gqDbE" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-26T18:52:07.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="oG8GGOVJTWwEGhbAWhhu" version="20.2.7" type="github" pages="2">
   <diagram id="9joGUydrtn-kThI4bQew" name="Estructura de la prueba">
     <mxGraphModel dx="786" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0U5DOR2fBuPd5olkYzlk" name="Participantes">
-    <mxGraphModel dx="273" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="544" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
         <mxCell id="yyFZwHAtODBluQ9owanC-4" value="Vilana &lt;b&gt;Angela&lt;/b&gt; del Rocio " style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="406.5" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yyFZwHAtODBluQ9owanC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yyFZwHAtODBluQ9owanC-6" target="yyFZwHAtODBluQ9owanC-30" edge="1">
+        <mxCell id="flIRon2r9QYOS1E9W8c--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yyFZwHAtODBluQ9owanC-6" target="yyFZwHAtODBluQ9owanC-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yyFZwHAtODBluQ9owanC-6" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; text-align: start; text-indent: -24px; text-size-adjust: auto;&quot;&gt;Ejemplos de tramas de las transacciones&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=top;rounded=1;sketch=1;" parent="1" vertex="1">
@@ -163,8 +163,8 @@
         <mxCell id="yyFZwHAtODBluQ9owanC-26" value="Tramas y mapeo contable" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;shadow=0;glass=0;sketch=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1552.5" y="333.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yyFZwHAtODBluQ9owanC-30" value="Tramas y mapeo" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;shadow=0;glass=0;sketch=1;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="73.5" width="120" height="80" as="geometry" />
+        <mxCell id="yyFZwHAtODBluQ9owanC-30" value="&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px; text-align: start; text-indent: -24px; caret-color: rgb(0, 0, 0);&quot;&gt;-Desembolso de Créditos&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px; text-align: start; text-indent: -24px; caret-color: rgb(0, 0, 0);&quot;&gt;-Accrual de Intereses&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px; text-align: start; text-indent: -24px; caret-color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;shadow=0;glass=0;sketch=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1747.5" y="60.25" width="182.5" height="106.5" as="geometry" />
         </mxCell>
         <mxCell id="yyFZwHAtODBluQ9owanC-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="yyFZwHAtODBluQ9owanC-90" edge="1">
           <mxGeometry relative="1" as="geometry">
