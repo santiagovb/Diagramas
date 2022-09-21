@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T14:30:30.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="H4jg736LqTVHxclNvUPj" version="20.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-21T14:32:44.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="VTM-H8X_QffDSWaN80-m" version="20.3.1" type="github" pages="2">
   <diagram id="Rg2rtboUO9fEnwSOw4VL" name="Chequex">
-    <mxGraphModel dx="782" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,8 +46,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ZdsOvnOP__NepEJzzvMR" name="Página-2">
-    <mxGraphModel dx="1203" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="ZdsOvnOP__NepEJzzvMR" name="Poc vending machine">
+    <mxGraphModel dx="782" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
