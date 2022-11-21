@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T20:48:57.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ztdMclfske3r85agHaIE" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-21T02:58:57.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4-GTgsZmXfFZcP95GpzU" version="20.5.3" type="github" pages="3">
   <diagram id="R0CkP3Aokau35Uq6mjA0" name="Casos de prueba">
     <mxGraphModel dx="840" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -347,7 +347,7 @@
         <mxCell id="9VvR5_wT5yqjyqUKABMa-36" value="Back&lt;br&gt;(DocIA-cloud)" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="75.25" width="90" height="286.5" as="geometry" />
         </mxCell>
-        <mxCell id="9VvR5_wT5yqjyqUKABMa-38" value="Resultados" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9VvR5_wT5yqjyqUKABMa-38" value="Resultados" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="530" y="116" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9VvR5_wT5yqjyqUKABMa-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#000000;startArrow=none;startFill=0;" edge="1" parent="1" source="9VvR5_wT5yqjyqUKABMa-39" target="9VvR5_wT5yqjyqUKABMa-27">
