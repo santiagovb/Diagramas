@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T15:35:28.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ow0dOEzt9d70mgqnhwPR" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-05T18:25:41.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7YjqQg2wUtCnyEwK7afL" version="20.6.0" type="github" pages="2">
   <diagram id="Rg2rtboUO9fEnwSOw4VL" name="Chequex">
-    <mxGraphModel dx="665" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RD35YB5dEa8BH7fztj4M-1" value="Chequex Angular" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="180" y="99" width="200" height="341" as="geometry" />
+        <mxCell id="RD35YB5dEa8BH7fztj4M-1" value="Emulación aplicación Banco" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="200" y="99" width="180" height="341" as="geometry" />
         </mxCell>
         <mxCell id="RD35YB5dEa8BH7fztj4M-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RD35YB5dEa8BH7fztj4M-2" target="RD35YB5dEa8BH7fztj4M-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RD35YB5dEa8BH7fztj4M-2" value="chequex" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="250" width="70" height="40" as="geometry" />
+          <mxGeometry x="310" y="250" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RD35YB5dEa8BH7fztj4M-3" value="Chequex Angular" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="430" y="100" width="190" height="340" as="geometry" />
+          <mxGeometry x="440" y="100" width="180" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="RD35YB5dEa8BH7fztj4M-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RD35YB5dEa8BH7fztj4M-6" target="RD35YB5dEa8BH7fztj4M-7" edge="1">
+        <mxCell id="RD35YB5dEa8BH7fztj4M-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.408;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RD35YB5dEa8BH7fztj4M-6" target="RD35YB5dEa8BH7fztj4M-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RD35YB5dEa8BH7fztj4M-6" value="Persona natural&lt;br&gt;funcionalidad" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="475" y="239" width="100" height="60" as="geometry" />
+        <mxCell id="RD35YB5dEa8BH7fztj4M-6" value="Funcionalidad orientada a persona natural" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="475" y="208" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RD35YB5dEa8BH7fztj4M-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="99" width="190" height="341" as="geometry" />
+          <mxGeometry x="669" y="99" width="180" height="341" as="geometry" />
         </mxCell>
         <mxCell id="RD35YB5dEa8BH7fztj4M-9" value="Paso 1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="696" y="139" width="120" height="60" as="geometry" />
@@ -31,17 +31,31 @@
         <mxCell id="RD35YB5dEa8BH7fztj4M-10" value="Paso 2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="696" y="219" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RD35YB5dEa8BH7fztj4M-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RD35YB5dEa8BH7fztj4M-11" target="RD35YB5dEa8BH7fztj4M-12" edge="1">
+        <mxCell id="yYaTkHZvPxc_nCEaJ4-P-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RD35YB5dEa8BH7fztj4M-11" target="RD35YB5dEa8BH7fztj4M-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RD35YB5dEa8BH7fztj4M-11" value="Paso 3" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="696" y="299" width="120" height="60" as="geometry" />
+          <mxGeometry x="696" y="299" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RD35YB5dEa8BH7fztj4M-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="100" width="180" height="340" as="geometry" />
+          <mxGeometry x="910" y="99" width="180" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="yYaTkHZvPxc_nCEaJ4-P-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RD35YB5dEa8BH7fztj4M-14" target="yYaTkHZvPxc_nCEaJ4-P-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RD35YB5dEa8BH7fztj4M-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/100-basic-for-user-interface/32/68-qr_code-128.png" parent="1" vertex="1">
-          <mxGeometry x="946" y="201" width="128" height="128" as="geometry" />
+          <mxGeometry x="936" y="205" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="yYaTkHZvPxc_nCEaJ4-P-1" value="Emisión de QR para reclamo en ventanilla" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="130" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="yYaTkHZvPxc_nCEaJ4-P-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.621;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yYaTkHZvPxc_nCEaJ4-P-3" target="RD35YB5dEa8BH7fztj4M-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="310.087" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYaTkHZvPxc_nCEaJ4-P-3" value="Funcionalidad orientada a personas jurídicas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="280" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
