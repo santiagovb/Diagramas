@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T18:17:44.589Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="h8T-EFPfHGdmi46ZUFB4" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-05T18:30:48.565Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lKQnO7JGaWVskqWi0KEm" version="20.6.0" type="github" pages="4">
   <diagram id="3MqDR4fMoNlYRUjgd6Yu" name="Objetivo">
-    <mxGraphModel dx="1094" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uhsDeSPVpH1Aqg5vOW3z-6" value="Arquitectura de innovación" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#0E72FD;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="250" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="250" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uhsDeSPVpH1Aqg5vOW3z-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uhsDeSPVpH1Aqg5vOW3z-8" target="uhsDeSPVpH1Aqg5vOW3z-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
