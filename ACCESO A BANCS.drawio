@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T13:03:03.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eor7Z-9i2h2oD-DbVmtr" version="20.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-13T13:04:18.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="X1DH2dXTl3BCDgilz2Ss" version="20.6.2" type="github" pages="2">
   <diagram id="X7UfOUh_WQknSX4uwnFy" name="ASIS">
     <mxGraphModel dx="4320" dy="1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -772,15 +772,6 @@
         <mxCell id="0OHCUWeCPXiJQQ2fVS1a-17" value="-monitore de informacion enviada y consumida.&lt;br&gt;-monitoreo de servicios que realizan los llamados&lt;br&gt;-registro de servicios consumidos&lt;br&gt;-registro de aplicaciones que consumen" style="whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;rounded=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="1881.5" width="120" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="JTdgcMHgrWfb0Qp9r0Pv-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1566" y="2060.7" width="1175" height="269.3000000000002" as="geometry" />
-        </mxCell>
-        <mxCell id="-2GKZBbyBp1yMccN1F-R-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fontColor=#081856;fillColor=#FFFFFF;gradientColor=none;gradientDirection=south;" vertex="1" parent="JTdgcMHgrWfb0Qp9r0Pv-5">
-          <mxGeometry width="1175" height="224.3" as="geometry" />
-        </mxCell>
-        <mxCell id="-2GKZBbyBp1yMccN1F-R-83" value="BANCS BDD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontColor=#081856;fontStyle=1" vertex="1" parent="JTdgcMHgrWfb0Qp9r0Pv-5">
-          <mxGeometry x="526.5" y="239.30000000000018" width="122" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="0OHCUWeCPXiJQQ2fVS1a-19" value="un solo componente modular" style="whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;rounded=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="2056" width="120" height="49" as="geometry" />
         </mxCell>
@@ -789,6 +780,15 @@
         </mxCell>
         <mxCell id="JTdgcMHgrWfb0Qp9r0Pv-1" value="Patron de diseño gateway - facade" style="whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;rounded=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="2180" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="JTdgcMHgrWfb0Qp9r0Pv-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1566" y="2060.7" width="1175" height="269.3000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="-2GKZBbyBp1yMccN1F-R-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fontColor=#081856;fillColor=#FFFFFF;gradientColor=none;gradientDirection=south;" vertex="1" parent="JTdgcMHgrWfb0Qp9r0Pv-6">
+          <mxGeometry width="1175" height="224.3" as="geometry" />
+        </mxCell>
+        <mxCell id="-2GKZBbyBp1yMccN1F-R-83" value="BANCS BDD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontColor=#081856;fontStyle=1" vertex="1" parent="JTdgcMHgrWfb0Qp9r0Pv-6">
+          <mxGeometry x="526.5" y="239.30000000000018" width="122" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
