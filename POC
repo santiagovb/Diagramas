@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T15:25:27.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="o8ZyTJlinQemJ9KsI90G" version="20.6.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-12-14T15:58:34.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="tSuA8c6KmKM-hxzYXSaJ" version="20.6.2" type="github" pages="6">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
-    <mxGraphModel dx="2059" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3096" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Oxvm86nCmhqh_gdVz82h-89" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-460" y="170" width="390" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-62" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D5E8D4;fontSize=9;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-304" y="343.5" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Oxvm86nCmhqh_gdVz82h-109" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-460" y="661" width="840" height="209" as="geometry" />
@@ -44,7 +47,7 @@
         <mxCell id="Oxvm86nCmhqh_gdVz82h-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;curved=1;" parent="1" source="Oxvm86nCmhqh_gdVz82h-5" target="Oxvm86nCmhqh_gdVz82h-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Oxvm86nCmhqh_gdVz82h-92" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="Oxvm86nCmhqh_gdVz82h-5" target="Oxvm86nCmhqh_gdVz82h-91" edge="1">
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;fontColor=#000000;curved=1;" edge="1" parent="1" source="Oxvm86nCmhqh_gdVz82h-5" target="Tz2ooTlb55_RCNmGjkCg-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Oxvm86nCmhqh_gdVz82h-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -187,9 +190,6 @@
         <mxCell id="Oxvm86nCmhqh_gdVz82h-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-369.06" y="543.6220000000001" width="6.521680672268908" height="6.521680672268908" as="geometry" />
         </mxCell>
-        <mxCell id="Oxvm86nCmhqh_gdVz82h-91" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.tcs.com/content/dam/tcs-bancs/images/logo/New-Logo-TCSBaNCS-319x92-whitebg.png;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="358.5" width="169" height="48.74" as="geometry" />
-        </mxCell>
         <mxCell id="Oxvm86nCmhqh_gdVz82h-95" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Oxvm86nCmhqh_gdVz82h-93" target="Oxvm86nCmhqh_gdVz82h-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-260" y="751" as="targetPoint" />
@@ -236,79 +236,98 @@
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-3" value="Users" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-150" y="774" width="98" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Tz2ooTlb55_RCNmGjkCg-5" value="Sesion tokens" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontStyle=1;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="510" y="636.21" width="133" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="Tz2ooTlb55_RCNmGjkCg-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tz2ooTlb55_RCNmGjkCg-7" target="Tz2ooTlb55_RCNmGjkCg-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="495" y="446.75" />
-              <mxPoint x="495" y="558" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontStyle=1;strokeColor=#82b366;align=right;" vertex="1" parent="1">
+          <mxGeometry x="510" y="620" width="350" height="58.21" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="510" y="401.75" width="130" height="90" as="geometry" />
+          <mxGeometry x="510" y="401.75" width="350" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-8" value="QA" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/4157/4157156.png;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="518" y="410.75" width="51" height="51" as="geometry" />
+          <mxGeometry x="670" y="414.5" width="51" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-9" value="Backend" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1688/1688502.png;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="578" y="410.75" width="51" height="51" as="geometry" />
+          <mxGeometry x="727.5" y="414.5" width="51" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Tz2ooTlb55_RCNmGjkCg-10" value="VPN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="510" y="691" width="133" height="33" as="geometry" />
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="510" y="691" width="350" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="Tz2ooTlb55_RCNmGjkCg-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="510" y="500.5" width="350" height="114.5" as="geometry" />
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500.5" width="350" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-12" value="TX" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="530" y="518.5" width="70" height="60" as="geometry" />
+          <mxGeometry x="540.5" y="527.75" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-13" value="TX" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="770" y="518.5" width="70" height="60" as="geometry" />
+          <mxGeometry x="780.5" y="527.75" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-14" value="TX" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="610" y="518.5" width="70" height="60" as="geometry" />
+          <mxGeometry x="620.5" y="527.75" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-15" value="TX" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="690" y="518.5" width="70" height="60" as="geometry" />
+          <mxGeometry x="700.5" y="527.75" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-16" value="Servicios" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="585" width="60" height="30" as="geometry" />
+          <mxGeometry x="664" y="591.75" width="60" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2760/2760290.png;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="546" y="518.5" width="38" height="38" as="geometry" />
+          <mxGeometry x="556.5" y="527.75" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2760/2760290.png;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="626" y="525.71" width="38" height="38" as="geometry" />
+          <mxGeometry x="636.5" y="534.96" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2760/2760290.png;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="706" y="525.71" width="38" height="38" as="geometry" />
+          <mxGeometry x="716.5" y="534.96" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2760/2760290.png;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="786" y="525.71" width="38" height="38" as="geometry" />
+          <mxGeometry x="796.5" y="534.96" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-37" value="Migracion de la base de datos de usuarios" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-262.5" y="940" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tz2ooTlb55_RCNmGjkCg-40" value="&lt;h1&gt;Puntos importantes de la reunión y tareas&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Se revisará el alcance definitivo el &lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;lunes 19&lt;/font&gt;&lt;/b&gt; con Atul&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Ya se acordó login(&lt;b&gt;scope&lt;/b&gt; - disminución de tiempo)&lt;/li&gt;&lt;li&gt;Capacidad de integración con nuestro sistema.&lt;/li&gt;&lt;li&gt;Posición consolidada(detallar scope, se define con &lt;b&gt;Andrea Chavez&lt;/b&gt; esta semana y se adiciona al documento que nos envieen o se comparte a Atul para que lo adicione)&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Existe dependencia del ambiente de&amp;nbsp;oauth0 producción y movimiento de base de usuarios se preguntará al equipo (&lt;b&gt;Santiago Medranda&lt;/b&gt;)&lt;/li&gt;&lt;li&gt;Realizar prueba de humo con ambiente de oauth0, con esto se espera ejecutar pruebas.&lt;/li&gt;&lt;li&gt;Se estima terminar la prueba para mediados de marzo.&lt;/li&gt;&lt;li&gt;Es necesario adelantar el acuerdo de confidencialidad.&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;Reunion el martes 20 para alinear tareas con el fin de solicitar a David Muños Rey que se necesita para realizar pasos siguientes.&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Participantes&lt;/b&gt;: Santiago Medranda, Luis Ulloa, Andrea Chavez, David Muñoz Figueroa, Santiago Vargas&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-40" value="&lt;h1&gt;Puntos importantes de la reunión y tareas&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;Se revisará el alcance definitivo el lunes 19 con Atul&lt;/font&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Ya se acordó login(scope - disminución de tiempo)&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Capacidad de integración con nuestro sistema.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;font&gt;Posición consolidada(detallar scope, se define con Andrea Chávez esta semana y se adiciona al documento que nos envíen o se comparte a Atul para que lo adicione)&lt;/font&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Existe dependencia del ambiente de oauth0 producción y movimiento de base de usuarios se preguntará al equipo (&lt;b&gt;Santiago Medranda&lt;/b&gt;)&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Realizar prueba de humo con ambiente de oauth0, con esto se espera ejecutar pruebas.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Se estima terminar la prueba para mediados de marzo.&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Es necesario adelantar el acuerdo de confidencialidad.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Reunión el martes 20 para alinear tareas con el fin de solicitar a&lt;/b&gt; &lt;i&gt;David Muñoz Rey&lt;/i&gt; recursos para realizar pasos siguientes.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font&gt;&lt;b&gt;Participantes&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Diego Silva,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Santiago Medranda, Luis Ulloa, Andrea Chávez, David Muñoz Figueroa, Santiago Vargas,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="495" y="72.5" width="595" height="257.5" as="geometry" />
         </mxCell>
-        <mxCell id="Tz2ooTlb55_RCNmGjkCg-41" value="&lt;h1&gt;Próximos pasos&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="350" width="205" height="39.5" as="geometry" />
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-41" value="&lt;h1&gt;Próximos pasos(habilitadores)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="351.5" width="375" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tz2ooTlb55_RCNmGjkCg-7" target="Tz2ooTlb55_RCNmGjkCg-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-43" value="Asignación de estos recursos" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="655" y="421" width="180" height="30" as="geometry" />
+          <mxGeometry x="520" y="425" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-44" value="Creación de estos recursos" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="655" y="638.25" width="180" height="30" as="geometry" />
+          <mxGeometry x="516" y="634.11" width="154" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-45" value="Configuración de este recurso" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="653" y="691" width="180" height="30" as="geometry" />
+          <mxGeometry x="516" y="699.76" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-46" value="Creación de estos recursos" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="882" y="542.75" width="180" height="30" as="geometry" />
+          <mxGeometry x="520" y="497.75" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-52" value="&lt;span style=&quot;font-weight: 700; text-align: right;&quot;&gt;Sesion tokens&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="634.11" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-53" value="Secret" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=9;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.saml_token;" vertex="1" parent="1">
+          <mxGeometry x="793" y="634.1" width="15.5" height="15.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-54" value="Access" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=9;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.saml_token;" vertex="1" parent="1">
+          <mxGeometry x="825" y="635" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-55" value="&lt;span style=&quot;text-align: center;&quot;&gt;VPN&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="684" y="699.76" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="510" y="759" width="350" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-59" value="Pruebas sobre este recurso" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="516" y="767.76" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-60" value="&lt;span style=&quot;text-align: center;&quot;&gt;OAUTH0&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="684" y="767.76" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://arizent.brightspotcdn.com/dims4/default/feada29/2147483647/strip/true/crop/500x74+0+0/resize/840x124!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F4b%2F74%2F333e6fe54ecdbc8cca9b04c72ce7%2Ftcs-bancs-logo-approved.png;" vertex="1" parent="1">
+          <mxGeometry x="-301" y="359" width="197" height="29.17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
