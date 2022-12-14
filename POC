@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T22:14:55.696Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="goQ_9d2sXnONSK_jnhjY" version="20.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-12-14T03:50:34.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vbS2qbYNP0n-getFtENX" version="20.6.2" type="github" pages="5">
   <diagram id="KQ3T9SxKSyb1ndXKp95D" name="Cheque_Digital">
     <mxGraphModel dx="786" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -286,7 +286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b6-8p7oP_57U2lBssruv" name="LowCode">
-    <mxGraphModel dx="2279" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1833" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -444,14 +444,14 @@
         <mxCell id="RGcLvtMst1K_KI2NXfZF-51" value="Codigo compañia&lt;br&gt;5" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-580" y="381" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RGcLvtMst1K_KI2NXfZF-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGcLvtMst1K_KI2NXfZF-53" target="RGcLvtMst1K_KI2NXfZF-54" edge="1">
+        <mxCell id="RGcLvtMst1K_KI2NXfZF-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="RGcLvtMst1K_KI2NXfZF-1" target="RGcLvtMst1K_KI2NXfZF-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGcLvtMst1K_KI2NXfZF-53" value="La primera validacion deberia ser la cantidad personas y el valor que se va a pagar--descargue garantia" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="16" y="-16" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGcLvtMst1K_KI2NXfZF-54" value="Tener esta información evita que tengamos que enviar correos por cada concepto" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="244" y="-32.5" width="196" height="90" as="geometry" />
+          <mxGeometry x="240" y="-90" width="196" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RGcLvtMst1K_KI2NXfZF-55" value="El usuario esta tiene la posibilidad de modificar la informacion es decir enviar varios excel&lt;br&gt;hasta que el sistema se cierre" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-230" y="-100" width="130" height="120" as="geometry" />
@@ -462,8 +462,8 @@
         <mxCell id="RGcLvtMst1K_KI2NXfZF-57" value="1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-258" y="241" width="40" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="vqVdpxlwz-_qPsYSdytO-1" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#F4AF20;shape=mxgraph.gcp2.check" vertex="1" parent="1">
-          <mxGeometry x="67.5" y="64.5" width="65" height="52" as="geometry" />
+        <mxCell id="vqVdpxlwz-_qPsYSdytO-2" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.check" vertex="1" parent="1">
+          <mxGeometry x="80" y="62" width="60" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
