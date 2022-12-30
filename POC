@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T20:04:41.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="p3PhLqlmBxYKMVTejWzH" version="20.7.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-12-30T17:01:59.629Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="MEZtDHH7XY6MPIMM2_PG" version="20.7.4" type="github" pages="7">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
-    <mxGraphModel dx="1644" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,6 +245,9 @@
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontStyle=1;strokeColor=#82b366;align=right;" parent="1" vertex="1">
           <mxGeometry x="510" y="620" width="350" height="58.21" as="geometry" />
         </mxCell>
+        <mxCell id="8f-U5hQoOQaNk8tqZFW8-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tz2ooTlb55_RCNmGjkCg-7" target="8f-U5hQoOQaNk8tqZFW8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="510" y="401.75" width="350" height="90" as="geometry" />
         </mxCell>
@@ -357,6 +360,15 @@
         </mxCell>
         <mxCell id="z8h3e-8Cr2uh7Y3zG-Qt-7" value="Monica Mejia QA" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1570/1570100.png;" parent="1" vertex="1">
           <mxGeometry x="377" y="101" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="8f-U5hQoOQaNk8tqZFW8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8f-U5hQoOQaNk8tqZFW8-1" target="8f-U5hQoOQaNk8tqZFW8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8f-U5hQoOQaNk8tqZFW8-1" value="Monica, Jorge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="940" y="401.75" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8f-U5hQoOQaNk8tqZFW8-3" value="Monica, Jorge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="401.75" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
