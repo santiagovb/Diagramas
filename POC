@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T19:10:02.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fVIUEIdQtZLtPyvPx2-b" version="20.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-01-05T19:32:14.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="gHX7Ls1FOWNJoPwCoVnL" version="20.8.0" type="github" pages="7">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="2173" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -381,13 +381,23 @@
           </mxCell>
         </object>
         <object label="Definición de la arquitectura" Comentario="Se requiere de presupuesto y el recurso es Hector Moyon" id="eIvJvEq8NgNEXSENTsVa-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;hachureGap=4;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;" vertex="1" parent="1">
-            <mxGeometry x="1960" y="414.5" width="270" height="48.25" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;sketch=0;jiggle=2;curveFitting=1;" vertex="1" parent="1">
+            <mxGeometry x="2080" y="575.74" width="270" height="88.37" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="eIvJvEq8NgNEXSENTsVa-5" value="Conversación con Diego (pedir presupuesto)" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="421.63" width="450" height="60" as="geometry" />
+        <mxCell id="eIvJvEq8NgNEXSENTsVa-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="eIvJvEq8NgNEXSENTsVa-5" target="eIvJvEq8NgNEXSENTsVa-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <object label="Conversación con Diego (pedir presupuesto)" Comentario="Diego pide que redactemos el correo del por qué se necesita a Héctor Moyon y por qué se necesita presupuesto." id="eIvJvEq8NgNEXSENTsVa-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+            <mxGeometry x="1400" y="421.63" width="450" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Definición de la arquitectura" Comentario="Diego pide que redactemos el correo del por qué se necesita a Héctor Moyon y por qué se necesita presupuesto." id="eIvJvEq8NgNEXSENTsVa-7">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+            <mxGeometry x="1950" y="421.63" width="290" height="60" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
