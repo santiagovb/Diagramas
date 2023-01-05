@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T22:08:48.946Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aeD0RyRB0DdzSXUvtQ51" version="20.7.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-01-05T19:10:02.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fVIUEIdQtZLtPyvPx2-b" version="20.8.0" type="github" pages="7">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="2173" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eIvJvEq8NgNEXSENTsVa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="eIvJvEq8NgNEXSENTsVa-4" target="eIvJvEq8NgNEXSENTsVa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eIvJvEq8NgNEXSENTsVa-4" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="880" y="391" width="450" height="119" as="geometry" />
+        </mxCell>
         <mxCell id="Oxvm86nCmhqh_gdVz82h-89" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-460" y="170" width="390" height="450" as="geometry" />
         </mxCell>
@@ -245,7 +251,7 @@
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontStyle=1;strokeColor=#82b366;align=right;" parent="1" vertex="1">
           <mxGeometry x="510" y="620" width="350" height="58.21" as="geometry" />
         </mxCell>
-        <mxCell id="8f-U5hQoOQaNk8tqZFW8-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tz2ooTlb55_RCNmGjkCg-7" target="8f-U5hQoOQaNk8tqZFW8-1">
+        <mxCell id="8f-U5hQoOQaNk8tqZFW8-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Tz2ooTlb55_RCNmGjkCg-7" target="8f-U5hQoOQaNk8tqZFW8-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" parent="1" vertex="1">
@@ -310,8 +316,8 @@
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=9;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Tz2ooTlb55_RCNmGjkCg-7" target="Tz2ooTlb55_RCNmGjkCg-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tz2ooTlb55_RCNmGjkCg-43" value="Asignación de estos recursos" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="425" width="90" height="30" as="geometry" />
+        <mxCell id="Tz2ooTlb55_RCNmGjkCg-43" value="Asignación de estos recursos TCS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="425" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-44" value="Creación de estos recursos" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="516" y="634.11" width="154" height="30" as="geometry" />
@@ -361,14 +367,26 @@
         <mxCell id="z8h3e-8Cr2uh7Y3zG-Qt-7" value="Monica Mejia QA" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1570/1570100.png;" parent="1" vertex="1">
           <mxGeometry x="377" y="101" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="8f-U5hQoOQaNk8tqZFW8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8f-U5hQoOQaNk8tqZFW8-1" target="8f-U5hQoOQaNk8tqZFW8-3">
+        <mxCell id="8f-U5hQoOQaNk8tqZFW8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8f-U5hQoOQaNk8tqZFW8-1" target="8f-U5hQoOQaNk8tqZFW8-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8f-U5hQoOQaNk8tqZFW8-1" value="Monica, Jorge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="940" y="401.75" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="8f-U5hQoOQaNk8tqZFW8-3" value="Monica, Jorge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="401.75" width="120" height="90" as="geometry" />
+        <object label="Monica, Jorge" Comentario="Se requiere presupuesto y hablar anabel y Adrián, ya que el recurso que conoce como manipular la conexión está en TCS." id="8f-U5hQoOQaNk8tqZFW8-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="901" y="422.63" width="99" height="48.25" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Adrian gilbert(plataforma), Anabel del rocío" Comentario="Se requiere de presupuesto y el recurso es Hector Moyon" id="8f-U5hQoOQaNk8tqZFW8-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="1030" y="422.63" width="270" height="48.25" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Definición de la arquitectura" Comentario="Se requiere de presupuesto y el recurso es Hector Moyon" id="eIvJvEq8NgNEXSENTsVa-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;hachureGap=4;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="1960" y="414.5" width="270" height="48.25" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="eIvJvEq8NgNEXSENTsVa-5" value="Conversación con Diego (pedir presupuesto)" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="421.63" width="450" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
