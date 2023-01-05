@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T19:34:25.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ppWfTpaCR6nBZ6qI54hg" version="20.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-01-05T19:34:36.514Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="J8oTkih1L5ivY5b2zx0d" version="20.8.0" type="github" pages="7">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="2173" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -382,7 +382,7 @@
         </object>
         <object label="Definición de la arquitectura" Comentario="Se requiere de presupuesto y el recurso es Hector Moyon" id="eIvJvEq8NgNEXSENTsVa-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;sketch=0;jiggle=2;curveFitting=1;container=1;" vertex="1" parent="1">
-            <mxGeometry x="2140" y="520" width="290" height="152.74" as="geometry" />
+            <mxGeometry x="2230" y="120" width="290" height="152.74" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="eIvJvEq8NgNEXSENTsVa-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="eIvJvEq8NgNEXSENTsVa-5" target="eIvJvEq8NgNEXSENTsVa-7">
