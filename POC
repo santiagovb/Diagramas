@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T04:29:57.670Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="tVoUuS2cxXMmH-2Yas0X" version="20.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-01-06T04:32:00.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5EOdfxx532PVoV4UktzG" version="20.8.0" type="github" pages="7">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
-    <mxGraphModel dx="2614" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1984" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,6 +274,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="eIvJvEq8NgNEXSENTsVa-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="Tz2ooTlb55_RCNmGjkCg-11" target="eIvJvEq8NgNEXSENTsVa-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tz2ooTlb55_RCNmGjkCg-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="510" y="500.5" width="350" height="109.5" as="geometry" />
         </mxCell>
@@ -392,9 +395,9 @@
             <mxGeometry x="1400" y="421.63" width="450" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="eIvJvEq8NgNEXSENTsVa-119" value="Descripcion de la arquitectura" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;container=1;verticalAlign=top;align=left;spacing=10;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="eIvJvEq8NgNEXSENTsVa-119" value="Descripción de la arquitectura" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;container=1;verticalAlign=top;align=left;spacing=10;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="2020" y="409.25" width="160" height="82.5" as="geometry">
-            <mxRectangle x="4870" y="527.5" width="2530" height="1542.5" as="alternateBounds" />
+            <mxRectangle x="2020" y="409.25" width="2530" height="1542.5" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eIvJvEq8NgNEXSENTsVa-39" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="eIvJvEq8NgNEXSENTsVa-119">
@@ -639,6 +642,9 @@
         </mxCell>
         <mxCell id="eIvJvEq8NgNEXSENTsVa-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;strokeColor=#007FFF;" edge="1" parent="eIvJvEq8NgNEXSENTsVa-119" source="eIvJvEq8NgNEXSENTsVa-108" target="eIvJvEq8NgNEXSENTsVa-113">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eIvJvEq8NgNEXSENTsVa-129" value="Hector Moyon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="920" y="528.96" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
