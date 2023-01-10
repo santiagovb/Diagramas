@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T17:21:59.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yQ4Tv7fuFtyXhlEyTt8f" version="20.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-10T17:06:03.383Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Oq9WoeQck-28QnrCKxtZ" version="20.8.3" type="github" pages="2">
   <diagram id="X7UfOUh_WQknSX4uwnFy" name="ASIS">
-    <mxGraphModel dx="5147" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3288" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,12 +151,6 @@
         </mxCell>
         <mxCell id="cpVLUIQBvUUd7k2zSbie-48" value="Legacies" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#081856;shape=mxgraph.mscae.enterprise.windows_server;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-600" y="1596.76" width="59.28" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="cpVLUIQBvUUd7k2zSbie-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontColor=#081856;startArrow=none;startFill=1;" parent="1" source="tAkByvAR_Dve_floCEYQ-3" target="cpVLUIQBvUUd7k2zSbie-86" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-381.5" y="1665.7600000000002" as="sourcePoint" />
-            <mxPoint x="-406" y="1840" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="cpVLUIQBvUUd7k2zSbie-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/en/5/56/WSO2_Software_Logo.png;" parent="1" vertex="1">
           <mxGeometry x="-500" y="1589.76" width="168.89" height="76" as="geometry" />
@@ -406,20 +400,11 @@
         <mxCell id="cpVLUIQBvUUd7k2zSbie-69" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#081856;shape=mxgraph.azure.cloud_service_package_file;strokeWidth=2;fontColor=#081856;" parent="1" vertex="1">
           <mxGeometry x="-290.74399999999986" y="1897.7" width="61.5" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="tAkByvAR_Dve_floCEYQ-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_x-128.png;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="-443.55" y="1715.55" width="54.45" height="54.45" as="geometry" />
-        </mxCell>
-        <mxCell id="tAkByvAR_Dve_floCEYQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontColor=#081856;startArrow=classic;startFill=1;endArrow=none;" parent="1" source="cpVLUIQBvUUd7k2zSbie-50" target="tAkByvAR_Dve_floCEYQ-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-415.5999999999999" y="1665.7600000000002" as="sourcePoint" />
-            <mxPoint x="-415.5500000000002" y="1840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-C2ixMeedz6FQhcrF-e3" name="TOBE">
-    <mxGraphModel dx="4320" dy="1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1797" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
