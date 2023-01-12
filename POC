@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T15:15:30.206Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="glPG49EP4Z8cduzmTTYv" version="20.8.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-12T14:26:54.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Nnj7TkqXwcKrG9XOm1F5" version="20.8.3" type="github" pages="9">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
-    <mxGraphModel dx="2511" dy="1721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3724" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -679,8 +679,20 @@
         <mxCell id="eIvJvEq8NgNEXSENTsVa-129" value="Hector Moyon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="920" y="528.96" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kmav3VoLKJ5LfGSc7JGe-1" value="Construir producto de Api con luis Ulloa." style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;align=left;verticalAlign=top;rounded=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;spacing=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="4850" y="402.31" width="180" height="98.37" as="geometry" />
+        <mxCell id="gzQzXja8SrbRCAaIZT03-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="kmav3VoLKJ5LfGSc7JGe-1" target="gzQzXja8SrbRCAaIZT03-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gzQzXja8SrbRCAaIZT03-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="kmav3VoLKJ5LfGSc7JGe-1" target="gzQzXja8SrbRCAaIZT03-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmav3VoLKJ5LfGSc7JGe-1" value="Construir producto de Api luis Ulloa transferencia directa con luis Ulloa." style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;align=left;verticalAlign=top;rounded=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;spacing=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="4850" y="362" width="180" height="177.69" as="geometry" />
+        </mxCell>
+        <mxCell id="gzQzXja8SrbRCAaIZT03-1" value="Construir producto de Api con luis Ulloa." style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;align=left;verticalAlign=top;rounded=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="5140" y="401.66" width="180" height="98.37" as="geometry" />
+        </mxCell>
+        <mxCell id="gzQzXja8SrbRCAaIZT03-3" value="Errores en la respuesta de la petición" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;align=left;verticalAlign=top;rounded=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;spacing=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4850" y="619.69" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
