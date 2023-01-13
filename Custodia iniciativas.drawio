@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T15:39:00.443Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IMOBU1v_6NPBX-7IZ_Vr" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T15:34:53.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="beVEFPdXx2YK2Cw8Kv9T" version="20.8.5" type="github">
   <diagram id="6qL_FKRn-VJSjgMeZuZw" name="Page-1">
-    <mxGraphModel dx="3970" dy="3260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="zCHwmClxqehuHZnsHQMJ-15" value="Como se estan midiendo" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="590" y="-980" width="250" height="1430" as="geometry" />
         </mxCell>
-        <mxCell id="zCHwmClxqehuHZnsHQMJ-17" value="Dueño/tema" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;fontColor=#000000;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="zCHwmClxqehuHZnsHQMJ-17" value="Custodia/Dueño/tema" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;fontColor=#000000;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="21" y="-1080" width="549" height="50" as="geometry" />
         </mxCell>
       </root>
