@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T16:13:23.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="oJq9VuQ6ihLh3wDWwXCD" version="20.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-17T16:15:15.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="k2BrwUPkttx1zxn8jCGK" version="20.8.5" type="github" pages="2">
   <diagram id="6qL_FKRn-VJSjgMeZuZw" name="Custodia">
     <mxGraphModel dx="1940" dy="2104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,12 +74,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="POC" id="kqnXD6m9YXMOY7LqXLp8">
-    <mxGraphModel dx="831" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1343" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_bcPP0k4VmUGyIp4uJ1w-0" />
         <mxCell id="_bcPP0k4VmUGyIp4uJ1w-1" parent="_bcPP0k4VmUGyIp4uJ1w-0" />
         <mxCell id="_bcPP0k4VmUGyIp4uJ1w-7" value="Santiago de Jesus Vargas" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;labelBackgroundColor=none;verticalAlign=top;align=left;spacingLeft=23;" parent="_bcPP0k4VmUGyIp4uJ1w-1" vertex="1">
-          <mxGeometry x="20" y="-990" width="550" height="1090" as="geometry" />
+          <mxGeometry x="20" y="-990" width="550" height="1080" as="geometry" />
         </mxCell>
         <UserObject label="Monese" link="https://pichincha-my.sharepoint.com/:f:/r/personal/svargasb_pichincha_com/Documents/Santiago/Nuevas%20Capacidades/Mis%20temas/2_POC/ANC_POC_Monese?csf=1&amp;web=1&amp;e=NTrSIB" id="_bcPP0k4VmUGyIp4uJ1w-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;labelBackgroundColor=none;" parent="_bcPP0k4VmUGyIp4uJ1w-1" vertex="1">
@@ -99,10 +99,10 @@
           <mxGeometry x="80" y="-685" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_bcPP0k4VmUGyIp4uJ1w-14" value="Smart contracts" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;labelBackgroundColor=none;" parent="_bcPP0k4VmUGyIp4uJ1w-1" vertex="1">
-          <mxGeometry x="80" y="-70" width="400" height="60" as="geometry" />
+          <mxGeometry x="80" y="-156" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_bcPP0k4VmUGyIp4uJ1w-15" value="Chatbot" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;labelBackgroundColor=none;" parent="_bcPP0k4VmUGyIp4uJ1w-1" vertex="1">
-          <mxGeometry x="77.5" width="405" height="60" as="geometry" />
+        <mxCell id="_bcPP0k4VmUGyIp4uJ1w-15" value="ChatGPT" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;labelBackgroundColor=none;" parent="_bcPP0k4VmUGyIp4uJ1w-1" vertex="1">
+          <mxGeometry x="77.5" y="-86" width="405" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_bcPP0k4VmUGyIp4uJ1w-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Biometria de huellas&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;labelBackgroundColor=none;" parent="_bcPP0k4VmUGyIp4uJ1w-1" vertex="1">
           <mxGeometry x="77.5" y="-380" width="405" height="60" as="geometry" />
@@ -114,10 +114,10 @@
           <mxGeometry x="80" y="-610" width="405" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_bcPP0k4VmUGyIp4uJ1w-20" value="VSTS para equipos agiles" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;labelBackgroundColor=none;" parent="_bcPP0k4VmUGyIp4uJ1w-1" vertex="1">
-          <mxGeometry x="80" y="-220" width="405" height="60" as="geometry" />
+          <mxGeometry x="80" y="-306" width="405" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_bcPP0k4VmUGyIp4uJ1w-21" value="FFLAGS" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;labelBackgroundColor=none;" parent="_bcPP0k4VmUGyIp4uJ1w-1" vertex="1">
-          <mxGeometry x="80" y="-144" width="405" height="60" as="geometry" />
+          <mxGeometry x="80" y="-230" width="405" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_bcPP0k4VmUGyIp4uJ1w-22" value="Sistema de Medición del equipo&lt;br&gt;Azure devops" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="_bcPP0k4VmUGyIp4uJ1w-1" vertex="1">
           <mxGeometry x="590" y="-980" width="350" height="90" as="geometry" />
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="yZ4pchrFguocry5lFTjv-3" value="Issue tracking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="_bcPP0k4VmUGyIp4uJ1w-1">
           <mxGeometry x="590" y="-632.5" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ4pchrFguocry5lFTjv-4" value="PowerAPPS" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="_bcPP0k4VmUGyIp4uJ1w-1">
+          <mxGeometry x="75" width="405" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
