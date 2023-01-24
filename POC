@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T22:12:06.961Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="a56MjdEShxtgg7o4gtLK" version="20.8.10" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-01-24T22:17:10.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="AWhyDm5YHRCVi7FlCcYc" version="20.8.10" type="github" pages="15">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="1644" dy="2600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1368,6 +1368,21 @@
         </mxCell>
         <mxCell id="-vKfjlHXNDPdlWvYj9Xt-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=5;fontFamily=Helvetica;fontSize=30;fontColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="1053.15" y="-130" width="33.13" height="33.13" as="geometry" />
+        </mxCell>
+        <mxCell id="-vKfjlHXNDPdlWvYj9Xt-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=24;fontColor=#FFFFFF;" edge="1" parent="1" source="-vKfjlHXNDPdlWvYj9Xt-37" target="-vKfjlHXNDPdlWvYj9Xt-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-vKfjlHXNDPdlWvYj9Xt-37" value="Usuario" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1077/1077063.png;strokeWidth=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="110" y="418.25" width="193.5" height="193.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-vKfjlHXNDPdlWvYj9Xt-40" value="Solicitud de servicio" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#942e89;strokeWidth=1;fontFamily=Helvetica;fontSize=24;verticalAlign=middle;fillColor=#942E89;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1073.59" y="490" width="250" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-vKfjlHXNDPdlWvYj9Xt-42" value="Microsoft Forms" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#942e89;strokeWidth=1;fontFamily=Helvetica;fontSize=24;fontColor=#FFFFFF;fillColor=#028387;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="511.47" y="485" width="205.03" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vKfjlHXNDPdlWvYj9Xt-46" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe WP&amp;quot;, Tahoma, Arial, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Nombre de la necesidad&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="511.47" y="560" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
