@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T23:40:14.499Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="HoyxnLI-Lv62xUVJ98kt" version="20.8.10" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-01-24T23:43:58.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CPoaAWRVYpdwQAxbNSBW" version="20.8.10" type="github" pages="15">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="1644" dy="2600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1240,7 +1240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ob9Qe_SX9qyO72b-_bQ4" name="Powerapps">
-    <mxGraphModel dx="3970" dy="3275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3970" dy="2955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1586,9 +1586,6 @@
         </mxCell>
         <mxCell id="9vCJjtU69gC-3qhleLEm-48" value="Solicitud 1&lt;br&gt;Solicitud 2&lt;br&gt;Solicitud 3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=29;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1726" width="2150" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="9vCJjtU69gC-3qhleLEm-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrows-set-12/512/reset-128.png;rounded=0;fontFamily=Helvetica;fontSize=35;fontColor=#FF0000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2311" y="1736" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="9vCJjtU69gC-3qhleLEm-50" value="&lt;font color=&quot;#000000&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontFamily=Helvetica;fontSize=35;fontColor=#FF0000;fillColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="940" y="1635" width="80" height="80" as="geometry" />
