@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T18:28:46.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rH-nqBmG-EwLdRAwrApE" version="20.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-25T21:02:02.637Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Pk4CpWcuxPDiGhwX_Yll" version="20.8.11" type="github" pages="2">
   <diagram id="6qL_FKRn-VJSjgMeZuZw" name="Custodia">
-    <mxGraphModel dx="2211" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2269" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,9 +13,11 @@
         <mxCell id="zCHwmClxqehuHZnsHQMJ-26" value="Laura Carrazco" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;fillColor=default;strokeColor=default;align=left;verticalAlign=top;fontColor=#000000;spacingLeft=23;" parent="1" vertex="1">
           <mxGeometry x="20" y="60" width="550" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="zCHwmClxqehuHZnsHQMJ-32" value="Mauricio Auqui" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;labelBackgroundColor=none;verticalAlign=top;align=left;spacingLeft=23;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-230" width="550" height="270" as="geometry" />
-        </mxCell>
+        <UserObject label="Mauricio Auqui" link="https://pichincha-my.sharepoint.com/:i:/r/personal/svargasb_pichincha_com/Documents/Santiago/Nuevas%20Capacidades/Otros/okr/1674680322426.jpg?csf=1&amp;web=1&amp;e=A6iCdR" id="zCHwmClxqehuHZnsHQMJ-32">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;labelBackgroundColor=none;verticalAlign=top;align=left;spacingLeft=23;" parent="1" vertex="1">
+            <mxGeometry x="20" y="-230" width="550" height="270" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="zCHwmClxqehuHZnsHQMJ-23" value="Fernando Roldan" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;verticalAlign=top;align=left;fontColor=#000000;spacingLeft=23;" parent="1" vertex="1">
           <mxGeometry x="20" y="-531" width="550" height="270" as="geometry" />
         </mxCell>
