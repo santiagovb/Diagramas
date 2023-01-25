@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T17:15:46.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="omU27y7o6yb3m9oOHa3J" version="20.8.11" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-01-25T17:17:59.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="voJSrt6qqIzhOmUQQ0pT" version="20.8.11" type="github" pages="15">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="3497" dy="3533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1240,7 +1240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ob9Qe_SX9qyO72b-_bQ4" name="Powerapps">
-    <mxGraphModel dx="2647" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3970" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1470,6 +1470,18 @@
         </mxCell>
         <mxCell id="6DfSFSBFAASX35nn0x1T-1" value="Observador" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1078/1078327.png;imageBackground=none;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="2677.69" y="380" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="6DfSFSBFAASX35nn0x1T-2" value="&lt;font style=&quot;font-size: 58px;&quot;&gt;PowerAPPS - Visualización - lista de sharepoint&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#942e89;strokeWidth=1;fontFamily=Helvetica;fontSize=24;verticalAlign=middle;fillColor=#942E89;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="386.67999999999984" y="1815" width="2159.41" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6DfSFSBFAASX35nn0x1T-3" value="Solicitud 1&lt;br&gt;Solicitud 2&lt;br&gt;Solicitud 3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=29;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="390.0899999999999" y="1901" width="2150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6DfSFSBFAASX35nn0x1T-4" value="&lt;font color=&quot;#000000&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontFamily=Helvetica;fontSize=35;fontColor=#FF0000;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280.09000000000003" y="1810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6DfSFSBFAASX35nn0x1T-5" value="Observador" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1078/1078327.png;imageBackground=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="426.3699999999999" y="1910" width="105" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
