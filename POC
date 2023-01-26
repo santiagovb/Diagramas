@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T20:23:03.146Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CuCCMY-HWqfkBd3d4dgg" version="20.8.11" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-01-26T21:08:22.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zRFzodNMu7ZSPVXfxHl1" version="20.8.11" type="github" pages="15">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="1644" dy="2631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1240,10 +1240,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ob9Qe_SX9qyO72b-_bQ4" name="Powerapps">
-    <mxGraphModel dx="1444" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3970" dy="1835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PaGzzJ0QunIZukUO_vk2-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=37;fontColor=#000000;fillColor=none;gradientColor=none;arcSize=21;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="3330" height="1650" as="geometry" />
+        </mxCell>
         <mxCell id="-vKfjlHXNDPdlWvYj9Xt-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=33;fontColor=#000000;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1164.1799999999998" y="940" width="410" height="240" as="geometry" />
         </mxCell>
@@ -1530,19 +1533,16 @@
           <mxGeometry x="3083" y="1975.5" width="255" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PaGzzJ0QunIZukUO_vk2-1" value="Cuando ocurre un cambio en el estado de la lista se envía una notificación al usuario." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="2673" y="1040" width="117.31" height="80" as="geometry" />
+          <mxGeometry x="2678.94" y="1043.39" width="117.31" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PaGzzJ0QunIZukUO_vk2-4" value="Segunda Automatización" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="PaGzzJ0QunIZukUO_vk2-4" value="&lt;font color=&quot;#104ac5&quot; style=&quot;font-size: 22px;&quot;&gt;Segunda Automatización&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="2675.19" y="990.39" width="124.81" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PaGzzJ0QunIZukUO_vk2-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=37;fontColor=#000000;fillColor=none;gradientColor=none;arcSize=21;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="30" width="3330" height="1650" as="geometry" />
+        <mxCell id="PaGzzJ0QunIZukUO_vk2-7" value="Cuando se genera una solicitud de servicio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=58;fontColor=#104AC5;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="886.59" y="52.25" width="1320.72" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="PaGzzJ0QunIZukUO_vk2-7" value="Cuando se genera una solicitud de servicio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="383.9999999999998" y="94.5" width="117.31" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PaGzzJ0QunIZukUO_vk2-8" value="Primera Automatizacion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="386.19" y="44.89" width="503.81" height="30" as="geometry" />
+        <mxCell id="PaGzzJ0QunIZukUO_vk2-8" value="&lt;font color=&quot;#000000&quot;&gt;Primera Automatización:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=58;fontColor=#104AC5;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="74.5" width="689.1" height="105.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
