@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T15:59:13.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="aMlRG3HhUCpzNeFiydHG" version="20.8.13" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-01-31T16:19:54.278Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pGr8EvoUMhMc_y187upy" version="20.8.13" type="github" pages="15">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="2173" dy="3065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2675,7 +2675,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CdmwN46s9kirsoWwh4_e" name="Morfología de cheques">
-    <mxGraphModel dx="794" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="2138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2731,10 +2731,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NZwdsAMrFjqaV6BRff8i-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="45" y="-295" width="170" height="150" as="geometry" />
+          <mxGeometry x="45" y="-299" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="NZwdsAMrFjqaV6BRff8i-75" value="Cheque-a color" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="65" y="-270" width="120" height="100" as="geometry" />
+          <mxGeometry x="65" y="-274" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NZwdsAMrFjqaV6BRff8i-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NZwdsAMrFjqaV6BRff8i-77" target="NZwdsAMrFjqaV6BRff8i-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
