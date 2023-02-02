@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T15:54:48.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="AYyxpc611JaV1cqRt8BX" version="20.8.13" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-02-02T22:08:15.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GBv4s5oEAQtnodJS3fnN" version="20.8.13" type="github" pages="16">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
-    <mxGraphModel dx="3435" dy="3280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4986" dy="3928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1215,7 +1215,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ob9Qe_SX9qyO72b-_bQ4" name="Powerapps">
-    <mxGraphModel dx="794" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1523,7 +1523,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T5AK8BhXEtRxwIUnFGRv" name="Superapps">
-    <mxGraphModel dx="1909" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2229" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2051,7 +2051,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WEF6rboY0Lcyf8RvvNKE" name="Análisis Biometrico">
-    <mxGraphModel dx="794" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2640,10 +2640,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CdmwN46s9kirsoWwh4_e" name="Morfología de cheques">
-    <mxGraphModel dx="836" dy="2746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="2865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TLPeDiXkn8NSyP5cHZfO-15" value="Escenario Canje" style="rounded=1;whiteSpace=wrap;html=1;align=right;" parent="1" vertex="1">
+          <mxGeometry x="1005" y="-960" width="625" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="NZwdsAMrFjqaV6BRff8i-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NZwdsAMrFjqaV6BRff8i-58" target="NZwdsAMrFjqaV6BRff8i-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3023,13 +3026,10 @@
           <mxGeometry x="1145" y="-820" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TLPeDiXkn8NSyP5cHZfO-13" value="Forence" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1375" y="-820" width="70" height="60" as="geometry" />
+          <mxGeometry x="1360" y="-950" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TLPeDiXkn8NSyP5cHZfO-14" value="otro CAR" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1465" y="-820" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TLPeDiXkn8NSyP5cHZfO-15" value="Escenario Canje" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1025" y="-1080" width="530" height="60" as="geometry" />
+        <mxCell id="TLPeDiXkn8NSyP5cHZfO-14" value="Otro" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1450" y="-950" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TLPeDiXkn8NSyP5cHZfO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TLPeDiXkn8NSyP5cHZfO-17" target="TLPeDiXkn8NSyP5cHZfO-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
