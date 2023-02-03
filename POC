@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T22:08:15.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GBv4s5oEAQtnodJS3fnN" version="20.8.13" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-02-03T20:54:24.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WH5R-wSoXbSgIPZWANH8" version="20.8.13" type="github" pages="16">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
-    <mxGraphModel dx="4986" dy="3928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2438" dy="3064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -778,20 +778,16 @@
           <mxGeometry x="5290" y="123.25" width="180" height="73.25" as="geometry" />
         </mxCell>
         <mxCell id="fZAZpTeWZRS9BETh5x3N-1" value="Capacidadesd Monese" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="3757.13" y="-1240" width="173" height="70" as="geometry" />
+          <mxGeometry x="3758" y="-1260" width="173" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fZAZpTeWZRS9BETh5x3N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="eIvJvEq8NgNEXSENTsVa-32" target="fZAZpTeWZRS9BETh5x3N-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3850" y="-1135" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8UIjQ_Bsiiql4tV7U-3J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIvJvEq8NgNEXSENTsVa-32" target="fZAZpTeWZRS9BETh5x3N-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Monese detalle" id="2FFkbSVIfkeXfgH8b2AX">
-    <mxGraphModel dx="2585" dy="3280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="3280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YIn4zHmtqpCoENqHHJ5U-0" />
         <mxCell id="YIn4zHmtqpCoENqHHJ5U-1" parent="YIn4zHmtqpCoENqHHJ5U-0" />
