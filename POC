@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T23:41:11.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kOG-_RK0iH3ZayUrlHH4" version="20.8.20" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-02-11T23:43:53.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0Ng8okc8aKBSd987G68_" version="20.8.20" type="github" pages="16">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="1597" dy="2634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1977,8 +1977,14 @@
         <mxCell id="5tbTQMUPhh8ZXsRL4agi-108" value="&lt;font color=&quot;#000000&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontFamily=Helvetica;fontSize=35;fontColor=#FF0000;fillColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="3790" y="870" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5tbTQMUPhh8ZXsRL4agi-111" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 37px;&quot;&gt;Datos del Formulario&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3909.85" y="252.5" width="480" height="110" as="geometry" />
+        <mxCell id="5tbTQMUPhh8ZXsRL4agi-111" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 37px;&quot;&gt;Insumo&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="3870" y="250" width="620.15" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="5tbTQMUPhh8ZXsRL4agi-112" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 37px;&quot;&gt;Formulario(caso sencillo)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3929.85" y="330" width="480" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5tbTQMUPhh8ZXsRL4agi-113" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 37px;&quot;&gt;PowerApps(mas potente)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3929.85" y="463.76" width="480" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
