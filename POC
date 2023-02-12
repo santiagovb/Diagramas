@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T20:26:24.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZJKapwMrDeyyfndFCzt7" version="20.8.20" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-02-12T20:27:52.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cMermfXWkRWH7NqHCFyd" version="20.8.20" type="github" pages="16">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="5830" dy="5093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2106,7 +2106,7 @@
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-38" target="K7gBcvxMt7eLnjjRuQHM-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="Escoja el tipo de presupuesto" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="KZGwD3uP6MpySkLMQbdg-38">
+        <object label="13 Escoja el tipo de presupuesto" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="KZGwD3uP6MpySkLMQbdg-38">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
             <mxGeometry x="5373.8" y="6420.000000000003" width="770" height="92.39" as="geometry" />
           </mxCell>
