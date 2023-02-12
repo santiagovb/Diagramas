@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T23:11:26.195Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UwKOkgvnQUEysUl2HaCu" version="20.8.20" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-02-12T23:12:20.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9vNYeED0hr9KAb1sQJyf" version="20.8.20" type="github" pages="16">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="5830" dy="5093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1328,7 +1328,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ob9Qe_SX9qyO72b-_bQ4" name="Powerapps">
-    <mxGraphModel dx="5293" dy="4113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2269" dy="2391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2632,7 +2632,7 @@
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-131" target="K7gBcvxMt7eLnjjRuQHM-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="Nombre del proveedor de CANALES" Nota="Lista" id="K7gBcvxMt7eLnjjRuQHM-131">
+        <object label="Nombre del proveedor de ARCHIVO CENTRAL" Nota="Lista" id="K7gBcvxMt7eLnjjRuQHM-131">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
             <mxGeometry x="8944.35" y="6692.200000000001" width="388.9" height="92.39" as="geometry" />
           </mxCell>
@@ -2768,7 +2768,7 @@
             <mxGeometry x="8450" y="7196.099999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="K7gBcvxMt7eLnjjRuQHM-166" value="Sección&lt;br&gt;CANALES" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="K7gBcvxMt7eLnjjRuQHM-166" value="Sección&lt;br&gt;ARCHIVO CENTRAL" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="8642.470000000001" y="6686.1" width="220" height="290" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-167">
