@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T23:20:24.639Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="PzQkwESJ9IbbO1IgcE-S" version="20.8.20" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-02-12T23:23:53.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="KeUa_fj0buUAcnmgxPwz" version="20.8.20" type="github" pages="16">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="5830" dy="5093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1328,15 +1328,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ob9Qe_SX9qyO72b-_bQ4" name="Powerapps">
-    <mxGraphModel dx="2269" dy="2391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3176" dy="2908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="K7gBcvxMt7eLnjjRuQHM-252" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3550" y="7051.76" width="1410" height="2479.12" as="geometry" />
+        </mxCell>
+        <mxCell id="K7gBcvxMt7eLnjjRuQHM-251" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="5460" y="7040.88" width="8250" height="2490" as="geometry" />
+        </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-70" value="Sección" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="5090" y="3202.39" width="220" height="3317.61" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-59" value="Sección" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="3744.93" y="8664.78" width="215.07" height="300" as="geometry" />
+          <mxGeometry x="3854.93" y="9105.66" width="215.07" height="300" as="geometry" />
         </mxCell>
         <mxCell id="-vKfjlHXNDPdlWvYj9Xt-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=33;fontColor=#000000;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1164.1799999999998" y="940" width="410" height="240" as="geometry" />
@@ -2104,25 +2110,9 @@
             <mxGeometry x="5371.79" y="5970.000000000003" width="770" height="92.39" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="K7gBcvxMt7eLnjjRuQHM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-38" target="KZGwD3uP6MpySkLMQbdg-40">
+        <mxCell id="K7gBcvxMt7eLnjjRuQHM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" target="K7gBcvxMt7eLnjjRuQHM-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4728.800000000001" y="6456.195000000002" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="5759" y="6550" />
-              <mxPoint x="4244" y="6550" />
-              <mxPoint x="4244" y="6668" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K7gBcvxMt7eLnjjRuQHM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-38" target="K7gBcvxMt7eLnjjRuQHM-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="K7gBcvxMt7eLnjjRuQHM-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-38" target="K7gBcvxMt7eLnjjRuQHM-86">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5759" y="6550" />
-              <mxPoint x="7519" y="6550" />
-            </Array>
+            <mxPoint x="6318" y="7013.270000000003" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <object label="13 Escoja el tipo de presupuesto" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="KZGwD3uP6MpySkLMQbdg-38">
@@ -2135,7 +2125,7 @@
         </mxCell>
         <object label="Activos continuidad" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="KZGwD3uP6MpySkLMQbdg-40">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="4125.05" y="6668.49" width="257.49" height="92.39" as="geometry" />
+            <mxGeometry x="4235.05" y="7109.37" width="257.49" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-42" target="KZGwD3uP6MpySkLMQbdg-44">
@@ -2143,7 +2133,7 @@
         </mxCell>
         <object label="Nombre del proveedor - Activos continuidad" Nota="Lista" id="KZGwD3uP6MpySkLMQbdg-42">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="4059.35" y="6840.88" width="388.9" height="92.39" as="geometry" />
+            <mxGeometry x="4169.35" y="7281.76" width="388.9" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-44" target="KZGwD3uP6MpySkLMQbdg-46">
@@ -2151,26 +2141,26 @@
         </mxCell>
         <object label="15¿Necesita requisición de compra?" Nota="Lista" id="KZGwD3uP6MpySkLMQbdg-44">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="4059.3500000000004" y="7013.27" width="388.9" height="92.39" as="geometry" />
+            <mxGeometry x="4169.35" y="7454.150000000001" width="388.9" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-49" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-46" target="KZGwD3uP6MpySkLMQbdg-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4293.95" y="7231.49" as="sourcePoint" />
+            <mxPoint x="4403.95" y="7672.37" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-46" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4213.8" y="7191.8550000000005" width="80" height="80" as="geometry" />
+          <mxGeometry x="4323.8" y="7632.735000000001" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-48" target="KZGwD3uP6MpySkLMQbdg-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-46" target="K7gBcvxMt7eLnjjRuQHM-56">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4710" y="8824.78" as="targetPoint" />
+            <mxPoint x="4820" y="9265.66" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4800" y="7231.78" />
-              <mxPoint x="4800" y="8819.78" />
+              <mxPoint x="4910" y="7672.66" />
+              <mxPoint x="4910" y="9260.66" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2180,25 +2170,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-48" value="¿Tiempo de contrato para esta compra?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4070" y="7394.78" width="350" height="100" as="geometry" />
+          <mxGeometry x="4180" y="7835.66" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-54" target="KZGwD3uP6MpySkLMQbdg-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-54" value="Presupuesto disponible" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4070" y="7574.78" width="350" height="60" as="geometry" />
+          <mxGeometry x="4180" y="8015.66" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-56" target="KZGwD3uP6MpySkLMQbdg-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-56" value="¿Cuenta con contrato vigente?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4070" y="7714.78" width="350" height="76.63" as="geometry" />
+          <mxGeometry x="4180" y="8155.66" width="350" height="76.63" as="geometry" />
         </mxCell>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-58" target="KZGwD3uP6MpySkLMQbdg-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-58" value="19¿Es proveedor unico?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4070" y="7871.41" width="350" height="50" as="geometry" />
+          <mxGeometry x="4180" y="8312.289999999999" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-63" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-60" target="KZGwD3uP6MpySkLMQbdg-62">
           <mxGeometry relative="1" as="geometry" />
@@ -2207,42 +2197,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-60" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4205" y="7971.41" width="80" height="80" as="geometry" />
+          <mxGeometry x="4315" y="8412.289999999999" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-62" target="K7gBcvxMt7eLnjjRuQHM-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4590" y="8211.41" />
+              <mxPoint x="4700" y="8652.289999999999" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KZGwD3uP6MpySkLMQbdg-62" value="Justifique ¿por qué es proveedor único?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4420" y="7971.41" width="340" height="80" as="geometry" />
+          <mxGeometry x="4530" y="8412.289999999999" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-1" target="K7gBcvxMt7eLnjjRuQHM-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-1" value="21Detalle del requerimiento del bien o servicio" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4030" y="8171.41" width="430" height="80" as="geometry" />
+          <mxGeometry x="4140" y="8612.289999999999" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-4" target="K7gBcvxMt7eLnjjRuQHM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-4" value="Cantidad requerida" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4030" y="8331.41" width="430" height="80" as="geometry" />
+          <mxGeometry x="4140" y="8772.289999999999" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-6" target="K7gBcvxMt7eLnjjRuQHM-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-6" value="Observaciones" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4030" y="8491.41" width="430" height="80" as="geometry" />
+          <mxGeometry x="4140" y="8932.289999999999" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-10" target="K7gBcvxMt7eLnjjRuQHM-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="Call center, canales, archivo central, cnb, habilitantes&amp;nbsp;" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-10">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="5380" y="6593.71" width="760" height="92.39" as="geometry" />
+            <mxGeometry x="5940" y="7094.59" width="760" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-12" target="K7gBcvxMt7eLnjjRuQHM-14">
@@ -2250,7 +2240,7 @@
         </mxCell>
         <object label="Nombre del proveedor de CALL CENTER" Nota="Lista" id="K7gBcvxMt7eLnjjRuQHM-12">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="5564.35" y="6766.1" width="388.9" height="92.39" as="geometry" />
+            <mxGeometry x="6124.35" y="7266.9800000000005" width="388.9" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-14" target="K7gBcvxMt7eLnjjRuQHM-17">
@@ -2258,49 +2248,49 @@
         </mxCell>
         <object label="15¿Necesita requisición de compra?" Nota="Lista" id="K7gBcvxMt7eLnjjRuQHM-14">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="5563.35" y="6938.490000000001" width="388.9" height="92.39" as="geometry" />
+            <mxGeometry x="6123.35" y="7439.370000000001" width="388.9" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-15" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="K7gBcvxMt7eLnjjRuQHM-19" source="K7gBcvxMt7eLnjjRuQHM-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5796.949999999999" y="7156.71" as="sourcePoint" />
+            <mxPoint x="6356.949999999999" y="7657.59" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-17" target="K7gBcvxMt7eLnjjRuQHM-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6140" y="8850" as="targetPoint" />
+            <mxPoint x="6700" y="9350.88" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="6190" y="7157" />
-              <mxPoint x="6190" y="8805" />
+              <mxPoint x="6750" y="7657.88" />
+              <mxPoint x="6750" y="9305.88" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-17" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5716.799999999999" y="7117.075000000001" width="80" height="80" as="geometry" />
+          <mxGeometry x="6276.799999999999" y="7617.955000000001" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-19" target="K7gBcvxMt7eLnjjRuQHM-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-19" value="¿Tiempo de contrato para esta compra?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5581" y="7280" width="350" height="80" as="geometry" />
+          <mxGeometry x="6141" y="7780.88" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-22" target="K7gBcvxMt7eLnjjRuQHM-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-22" value="Presupuesto disponible" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5580.999999999998" y="7420" width="350" height="60" as="geometry" />
+          <mxGeometry x="6140.999999999998" y="7920.88" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-24" target="K7gBcvxMt7eLnjjRuQHM-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-24" value="¿Cuenta con contrato vigente?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5580.999999999998" y="7560" width="350" height="76.63" as="geometry" />
+          <mxGeometry x="6140.999999999998" y="8060.88" width="350" height="76.63" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-26" target="K7gBcvxMt7eLnjjRuQHM-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-26" value="¿Es proveedor unico?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5580.999999999998" y="7716.63" width="350" height="50" as="geometry" />
+          <mxGeometry x="6140.999999999998" y="8217.51" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-49" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-29" target="K7gBcvxMt7eLnjjRuQHM-31">
           <mxGeometry relative="1" as="geometry" />
@@ -2308,8 +2298,8 @@
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-29" target="K7gBcvxMt7eLnjjRuQHM-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="6074.049999999999" y="7856.92" />
-              <mxPoint x="6074.049999999999" y="8252.92" />
+              <mxPoint x="6634.049999999999" y="8357.8" />
+              <mxPoint x="6634.049999999999" y="8753.8" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2319,31 +2309,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-29" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5715.999999999998" y="7816.63" width="80" height="80" as="geometry" />
+          <mxGeometry x="6275.999999999998" y="8317.51" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-31" target="K7gBcvxMt7eLnjjRuQHM-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-31" value="Justifique ¿por qué es proveedor único?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5585.999999999998" y="7982.92" width="340" height="80" as="geometry" />
+          <mxGeometry x="6145.999999999998" y="8483.8" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-33" target="K7gBcvxMt7eLnjjRuQHM-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-33" value="Detalle del requerimiento del bien o servicio" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5540.999999999998" y="8212.92" width="430" height="80" as="geometry" />
+          <mxGeometry x="6100.999999999998" y="8713.8" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-35" target="K7gBcvxMt7eLnjjRuQHM-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-35" value="Cantidad requerida" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5540.999999999998" y="8372.92" width="430" height="80" as="geometry" />
+          <mxGeometry x="6100.999999999998" y="8873.8" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-36" target="K7gBcvxMt7eLnjjRuQHM-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-36" value="Observaciones" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5540.999999999998" y="8532.92" width="430" height="80" as="geometry" />
+          <mxGeometry x="6100.999999999998" y="9033.8" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-42" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-40" target="KZGwD3uP6MpySkLMQbdg-36">
           <mxGeometry relative="1" as="geometry" />
@@ -2365,7 +2355,7 @@
           <mxGeometry x="5718.8" y="5670.095000000002" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-56" value="24 Documentos continuidad y otros presupuestos." style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4030" y="8674.78" width="430" height="290" as="geometry" />
+          <mxGeometry x="4140" y="9115.66" width="430" height="290" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-60">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -2373,11 +2363,11 @@
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-61" value="Sección" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="3744.93" y="6634.679999999999" width="220" height="1940.1" as="geometry" />
+          <mxGeometry x="3854.93" y="7075.5599999999995" width="220" height="1940.1" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-63">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="3777.47" y="6849.15" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="3887.47" y="7290.03" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-65">
@@ -2392,66 +2382,66 @@
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-68">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="3777.47" y="6747.83" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="3887.47" y="7188.71" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-69">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="3777.47" y="6647.83" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="3887.47" y="7088.71" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-71" value="24 Documentos continuidad y otros presupuestos." style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5542.35" y="8660" width="430" height="290" as="geometry" />
+          <mxGeometry x="6102.35" y="9160.88" width="430" height="290" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-73" value="Sección&lt;br&gt;Requisición de compra" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="5260" y="7270" width="220" height="1350" as="geometry" />
+          <mxGeometry x="5820" y="7770.88" width="220" height="1350" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-74">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="3580" y="8866.1" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="3690" y="9306.98" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-75">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="3580" y="8764.78" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="3690" y="9205.66" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-76">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="3580" y="8664.78" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="3690" y="9105.66" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-78" value="Sección" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="5264.93" y="8652.39" width="215.07" height="300" as="geometry" />
+          <mxGeometry x="5824.93" y="9153.269999999999" width="215.07" height="300" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-79">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="5100" y="8853.71" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="5660" y="9354.589999999998" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-80">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="5100" y="8752.39" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="5660" y="9253.269999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-81">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="5100" y="8652.39" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="5660" y="9153.269999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-82">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="5070" y="7471.319999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="5630" y="7972.199999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-83">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="5070" y="7369.999999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="5630" y="7870.879999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-84">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="5070" y="7269.999999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="5630" y="7770.879999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-86" target="K7gBcvxMt7eLnjjRuQHM-88">
@@ -2459,7 +2449,7 @@
         </mxCell>
         <object label="Nombre del proveedor de CANALES" Nota="Lista" id="K7gBcvxMt7eLnjjRuQHM-86">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="7324.35" y="6686.1" width="388.9" height="92.39" as="geometry" />
+            <mxGeometry x="7884.35" y="7186.9800000000005" width="388.9" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-88" target="K7gBcvxMt7eLnjjRuQHM-91">
@@ -2467,49 +2457,49 @@
         </mxCell>
         <object label="15¿Necesita requisición de compra?" Nota="Lista" id="K7gBcvxMt7eLnjjRuQHM-88">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="7323.35" y="6858.490000000001" width="388.9" height="92.39" as="geometry" />
+            <mxGeometry x="7883.35" y="7359.370000000001" width="388.9" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-89" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-91" target="K7gBcvxMt7eLnjjRuQHM-93">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="7556.949999999999" y="7076.71" as="sourcePoint" />
+            <mxPoint x="8116.949999999999" y="7577.59" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-91" target="K7gBcvxMt7eLnjjRuQHM-112">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="7900" y="8770" as="targetPoint" />
+            <mxPoint x="8460" y="9270.88" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="7950" y="7077" />
-              <mxPoint x="7950" y="8725" />
+              <mxPoint x="8510" y="7577.88" />
+              <mxPoint x="8510" y="9225.88" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-91" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="7476.799999999999" y="7037.075000000001" width="80" height="80" as="geometry" />
+          <mxGeometry x="8036.799999999999" y="7537.955000000001" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-93" target="K7gBcvxMt7eLnjjRuQHM-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-93" value="¿Tiempo de contrato para esta compra?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="7341" y="7200" width="350" height="80" as="geometry" />
+          <mxGeometry x="7901" y="7700.88" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-95" target="K7gBcvxMt7eLnjjRuQHM-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-95" value="Presupuesto disponible" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="7340.999999999998" y="7340" width="350" height="60" as="geometry" />
+          <mxGeometry x="7900.999999999998" y="7840.88" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-97" target="K7gBcvxMt7eLnjjRuQHM-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-97" value="¿Cuenta con contrato vigente?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="7340.999999999998" y="7480" width="350" height="76.63" as="geometry" />
+          <mxGeometry x="7900.999999999998" y="7980.88" width="350" height="76.63" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-99" target="K7gBcvxMt7eLnjjRuQHM-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-99" value="¿Es proveedor unico?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="7340.999999999998" y="7636.63" width="350" height="50" as="geometry" />
+          <mxGeometry x="7900.999999999998" y="8137.51" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-100" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-103" target="K7gBcvxMt7eLnjjRuQHM-105">
           <mxGeometry relative="1" as="geometry" />
@@ -2517,8 +2507,8 @@
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-103" target="K7gBcvxMt7eLnjjRuQHM-107">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7834.049999999999" y="7776.92" />
-              <mxPoint x="7834.049999999999" y="8172.919999999999" />
+              <mxPoint x="8394.05" y="8277.8" />
+              <mxPoint x="8394.05" y="8673.8" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2528,105 +2518,105 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-103" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="7475.999999999998" y="7736.63" width="80" height="80" as="geometry" />
+          <mxGeometry x="8035.999999999998" y="8237.51" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-105" target="K7gBcvxMt7eLnjjRuQHM-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-105" value="Justifique ¿por qué es proveedor único?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="7345.999999999998" y="7902.92" width="340" height="80" as="geometry" />
+          <mxGeometry x="7905.999999999998" y="8403.8" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-107" target="K7gBcvxMt7eLnjjRuQHM-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-107" value="Detalle del requerimiento del bien o servicio" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="7300.999999999998" y="8132.919999999999" width="430" height="80" as="geometry" />
+          <mxGeometry x="7860.999999999998" y="8633.8" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-109" target="K7gBcvxMt7eLnjjRuQHM-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-109" value="Cantidad requerida" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="7300.999999999998" y="8292.92" width="430" height="80" as="geometry" />
+          <mxGeometry x="7860.999999999998" y="8793.8" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-111" target="K7gBcvxMt7eLnjjRuQHM-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-111" value="Observaciones" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="7300.999999999998" y="8452.92" width="430" height="80" as="geometry" />
+          <mxGeometry x="7860.999999999998" y="8953.8" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-112" value="24 Documentos continuidad y otros presupuestos." style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="7302.35" y="8580" width="430" height="290" as="geometry" />
+          <mxGeometry x="7862.35" y="9080.88" width="430" height="290" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-113" value="Sección&lt;br&gt;Requisición de compra" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="7020" y="7190" width="220" height="1350" as="geometry" />
+          <mxGeometry x="7580" y="7690.88" width="220" height="1350" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-114" value="Sección" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="7024.93" y="8572.39" width="215.07" height="300" as="geometry" />
+          <mxGeometry x="7584.93" y="9073.269999999999" width="215.07" height="300" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-115">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="6860" y="8773.71" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="7420" y="9274.589999999998" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-116">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="6860" y="8672.39" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="7420" y="9173.269999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-117">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="6860" y="8572.39" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="7420" y="9073.269999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-118">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="6830" y="7391.319999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="7390" y="7892.199999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-119">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="6830" y="7289.999999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="7390" y="7790.879999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-120">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="6830" y="7189.999999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="7390" y="7690.879999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-122" value="Sección&lt;br&gt;CANALES" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="5264.93" y="6766.1" width="220" height="273.9" as="geometry" />
+          <mxGeometry x="5824.93" y="7266.9800000000005" width="220" height="273.9" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-123" value="Sección&lt;br&gt;CANALES" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="7022.47" y="6680" width="220" height="290" as="geometry" />
+          <mxGeometry x="7582.47" y="7180.88" width="220" height="290" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-124">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="6830" y="6891.319999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="7390" y="7392.199999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-125">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="6830" y="6789.999999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="7390" y="7290.879999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-126">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="6830" y="6689.999999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="7390" y="7190.879999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-127">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="5070" y="6967.419999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="5630" y="7468.299999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-128">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="5070" y="6866.099999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="5630" y="7366.98" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-129">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="5070" y="6766.099999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="5630" y="7266.98" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-131" target="K7gBcvxMt7eLnjjRuQHM-133">
@@ -2634,7 +2624,7 @@
         </mxCell>
         <object label="Nombre del proveedor de ARCHIVO CENTRAL" Nota="Lista" id="K7gBcvxMt7eLnjjRuQHM-131">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="8944.35" y="6692.200000000001" width="388.9" height="92.39" as="geometry" />
+            <mxGeometry x="9504.35" y="7193.080000000001" width="388.9" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-133" target="K7gBcvxMt7eLnjjRuQHM-136">
@@ -2642,49 +2632,49 @@
         </mxCell>
         <object label="15¿Necesita requisición de compra?" Nota="Lista" id="K7gBcvxMt7eLnjjRuQHM-133">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="8943.35" y="6864.590000000001" width="388.9" height="92.39" as="geometry" />
+            <mxGeometry x="9503.35" y="7365.470000000001" width="388.9" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-134" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-136" target="K7gBcvxMt7eLnjjRuQHM-138">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9176.949999999999" y="7082.81" as="sourcePoint" />
+            <mxPoint x="9736.949999999999" y="7583.6900000000005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-136" target="K7gBcvxMt7eLnjjRuQHM-157">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9520" y="8776.1" as="targetPoint" />
+            <mxPoint x="10080" y="9276.98" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="9570" y="7083.1" />
-              <mxPoint x="9570" y="8731.1" />
+              <mxPoint x="10130" y="7583.9800000000005" />
+              <mxPoint x="10130" y="9231.98" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-136" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="9096.8" y="7043.175000000001" width="80" height="80" as="geometry" />
+          <mxGeometry x="9656.8" y="7544.055000000001" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-138" target="K7gBcvxMt7eLnjjRuQHM-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-138" value="¿Tiempo de contrato para esta compra?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="8961" y="7206.1" width="350" height="80" as="geometry" />
+          <mxGeometry x="9521" y="7706.9800000000005" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-140" target="K7gBcvxMt7eLnjjRuQHM-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-140" value="Presupuesto disponible" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="8960.999999999998" y="7346.1" width="350" height="60" as="geometry" />
+          <mxGeometry x="9520.999999999998" y="7846.9800000000005" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-142" target="K7gBcvxMt7eLnjjRuQHM-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-142" value="¿Cuenta con contrato vigente?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="8960.999999999998" y="7486.1" width="350" height="76.63" as="geometry" />
+          <mxGeometry x="9520.999999999998" y="7986.9800000000005" width="350" height="76.63" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-144" target="K7gBcvxMt7eLnjjRuQHM-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-144" value="¿Es proveedor unico?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="8960.999999999998" y="7642.7300000000005" width="350" height="50" as="geometry" />
+          <mxGeometry x="9520.999999999998" y="8143.610000000001" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-145" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-148" target="K7gBcvxMt7eLnjjRuQHM-150">
           <mxGeometry relative="1" as="geometry" />
@@ -2692,8 +2682,8 @@
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-148" target="K7gBcvxMt7eLnjjRuQHM-152">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9454.05" y="7783.02" />
-              <mxPoint x="9454.05" y="8179.0199999999995" />
+              <mxPoint x="10014.05" y="8283.9" />
+              <mxPoint x="10014.05" y="8679.9" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2703,87 +2693,87 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-148" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="9095.999999999998" y="7742.7300000000005" width="80" height="80" as="geometry" />
+          <mxGeometry x="9655.999999999998" y="8243.61" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-150" target="K7gBcvxMt7eLnjjRuQHM-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-150" value="Justifique ¿por qué es proveedor único?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="8965.999999999998" y="7909.02" width="340" height="80" as="geometry" />
+          <mxGeometry x="9525.999999999998" y="8409.9" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-152" target="K7gBcvxMt7eLnjjRuQHM-154">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-152" value="Detalle del requerimiento del bien o servicio" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="8920.999999999998" y="8139.0199999999995" width="430" height="80" as="geometry" />
+          <mxGeometry x="9480.999999999998" y="8639.9" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-154" target="K7gBcvxMt7eLnjjRuQHM-156">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-154" value="Cantidad requerida" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="8920.999999999998" y="8299.02" width="430" height="80" as="geometry" />
+          <mxGeometry x="9480.999999999998" y="8799.9" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-156" target="K7gBcvxMt7eLnjjRuQHM-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-156" value="Observaciones" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="8920.999999999998" y="8459.02" width="430" height="80" as="geometry" />
+          <mxGeometry x="9480.999999999998" y="8959.9" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-157" value="24 Documentos continuidad y otros presupuestos." style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="8922.35" y="8586.1" width="430" height="290" as="geometry" />
+          <mxGeometry x="9482.35" y="9086.98" width="430" height="290" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-158" value="Sección&lt;br&gt;Requisición de compra" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="8640" y="7196.1" width="220" height="1350" as="geometry" />
+          <mxGeometry x="9200" y="7696.9800000000005" width="220" height="1350" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-159" value="Sección" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="8644.93" y="8578.49" width="215.07" height="300" as="geometry" />
+          <mxGeometry x="9204.93" y="9079.369999999999" width="215.07" height="300" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-160">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="8480" y="8779.81" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="9040" y="9280.689999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-161">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="8480" y="8678.49" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="9040" y="9179.369999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-162">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="8480" y="8578.49" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="9040" y="9079.369999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-163">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="8450" y="7397.419999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="9010" y="7898.299999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-164">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="8450" y="7296.099999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="9010" y="7796.98" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-165">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="8450" y="7196.099999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="9010" y="7696.98" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-166" value="Sección&lt;br&gt;ARCHIVO CENTRAL" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="8642.470000000001" y="6686.1" width="220" height="290" as="geometry" />
+          <mxGeometry x="9202.470000000001" y="7186.9800000000005" width="220" height="290" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-167">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="8450" y="6897.419999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="9010" y="7398.299999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-168">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="8450" y="6796.099999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="9010" y="7296.98" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-169">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="8450" y="6696.099999999999" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="9010" y="7196.98" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-171" target="K7gBcvxMt7eLnjjRuQHM-173">
@@ -2791,7 +2781,7 @@
         </mxCell>
         <object label="Nombre del proveedor de CNB&#39;s" Nota="Lista" id="K7gBcvxMt7eLnjjRuQHM-171">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="10534.35" y="6698.300000000001" width="388.9" height="92.39" as="geometry" />
+            <mxGeometry x="11094.35" y="7199.180000000001" width="388.9" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-173" target="K7gBcvxMt7eLnjjRuQHM-176">
@@ -2799,49 +2789,49 @@
         </mxCell>
         <object label="15¿Necesita requisición de compra?" Nota="Lista" id="K7gBcvxMt7eLnjjRuQHM-173">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="10533.35" y="6870.690000000001" width="388.9" height="92.39" as="geometry" />
+            <mxGeometry x="11093.35" y="7371.5700000000015" width="388.9" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-174" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-176" target="K7gBcvxMt7eLnjjRuQHM-178">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10766.949999999999" y="7088.910000000001" as="sourcePoint" />
+            <mxPoint x="11326.949999999999" y="7589.790000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-176" target="K7gBcvxMt7eLnjjRuQHM-197">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="11110" y="8782.2" as="targetPoint" />
+            <mxPoint x="11670" y="9283.08" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="11160" y="7089.200000000001" />
-              <mxPoint x="11160" y="8737.2" />
+              <mxPoint x="11720" y="7590.080000000001" />
+              <mxPoint x="11720" y="9238.08" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-176" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="10686.8" y="7049.2750000000015" width="80" height="80" as="geometry" />
+          <mxGeometry x="11246.8" y="7550.155000000002" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-178" target="K7gBcvxMt7eLnjjRuQHM-180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-178" value="¿Tiempo de contrato para esta compra?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="10551" y="7212.200000000001" width="350" height="80" as="geometry" />
+          <mxGeometry x="11111" y="7713.080000000001" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-180" target="K7gBcvxMt7eLnjjRuQHM-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-180" value="Presupuesto disponible" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="10550.999999999998" y="7352.200000000001" width="350" height="60" as="geometry" />
+          <mxGeometry x="11110.999999999998" y="7853.080000000001" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-182" target="K7gBcvxMt7eLnjjRuQHM-184">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-182" value="¿Cuenta con contrato vigente?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="10550.999999999998" y="7492.200000000001" width="350" height="76.63" as="geometry" />
+          <mxGeometry x="11110.999999999998" y="7993.080000000001" width="350" height="76.63" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-184" target="K7gBcvxMt7eLnjjRuQHM-188">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-184" value="¿Es proveedor unico?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="10550.999999999998" y="7648.830000000001" width="350" height="50" as="geometry" />
+          <mxGeometry x="11110.999999999998" y="8149.710000000001" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-185" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-188" target="K7gBcvxMt7eLnjjRuQHM-190">
           <mxGeometry relative="1" as="geometry" />
@@ -2849,8 +2839,8 @@
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-188" target="K7gBcvxMt7eLnjjRuQHM-192">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="11044.05" y="7789.120000000001" />
-              <mxPoint x="11044.05" y="8185.12" />
+              <mxPoint x="11604.05" y="8290" />
+              <mxPoint x="11604.05" y="8686" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2860,87 +2850,87 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-188" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="10685.999999999998" y="7748.830000000001" width="80" height="80" as="geometry" />
+          <mxGeometry x="11245.999999999998" y="8249.710000000001" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-190" target="K7gBcvxMt7eLnjjRuQHM-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-190" value="Justifique ¿por qué es proveedor único?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="10555.999999999998" y="7915.120000000001" width="340" height="80" as="geometry" />
+          <mxGeometry x="11115.999999999998" y="8416" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-192" target="K7gBcvxMt7eLnjjRuQHM-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-192" value="Detalle del requerimiento del bien o servicio" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="10510.999999999998" y="8145.12" width="430" height="80" as="geometry" />
+          <mxGeometry x="11070.999999999998" y="8646" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-194" target="K7gBcvxMt7eLnjjRuQHM-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-194" value="Cantidad requerida" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="10510.999999999998" y="8305.12" width="430" height="80" as="geometry" />
+          <mxGeometry x="11070.999999999998" y="8806" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-196" target="K7gBcvxMt7eLnjjRuQHM-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-196" value="Observaciones" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="10510.999999999998" y="8465.12" width="430" height="80" as="geometry" />
+          <mxGeometry x="11070.999999999998" y="8966" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-197" value="24 Documentos continuidad y otros presupuestos." style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="10512.35" y="8592.2" width="430" height="290" as="geometry" />
+          <mxGeometry x="11072.35" y="9093.08" width="430" height="290" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-198" value="Sección&lt;br&gt;Requisición de compra" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="10230" y="7202.200000000001" width="220" height="1350" as="geometry" />
+          <mxGeometry x="10790" y="7703.080000000001" width="220" height="1350" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-199" value="Sección" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="10234.93" y="8584.59" width="215.07" height="300" as="geometry" />
+          <mxGeometry x="10794.93" y="9085.47" width="215.07" height="300" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-200">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="10070" y="8785.91" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="10630" y="9286.789999999999" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-201">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="10070" y="8684.59" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="10630" y="9185.47" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-202">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="10070" y="8584.59" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="10630" y="9085.47" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-203">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="10040" y="7403.5199999999995" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="10600" y="7904.4" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-204">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="10040" y="7302.2" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="10600" y="7803.08" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-205">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="10040" y="7202.2" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="10600" y="7703.08" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-206" value="Sección&lt;br&gt;ARCHIVO CNB&#39;s" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="10232.470000000001" y="6692.200000000001" width="220" height="290" as="geometry" />
+          <mxGeometry x="10792.470000000001" y="7193.080000000001" width="220" height="290" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-207">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="10040" y="6903.5199999999995" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="10600" y="7404.4" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-208">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="10040" y="6802.2" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="10600" y="7303.08" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-209">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="10040" y="6702.2" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="10600" y="7203.08" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-211" target="K7gBcvxMt7eLnjjRuQHM-213">
@@ -2948,7 +2938,7 @@
         </mxCell>
         <object label="Nombre del proveedor HABILITANTES" Nota="Lista" id="K7gBcvxMt7eLnjjRuQHM-211">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="12074.35" y="6689.810000000001" width="388.9" height="92.39" as="geometry" />
+            <mxGeometry x="12634.35" y="7190.690000000001" width="388.9" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-213" target="K7gBcvxMt7eLnjjRuQHM-216">
@@ -2956,49 +2946,49 @@
         </mxCell>
         <object label="15¿Necesita requisición de compra?" Nota="Lista" id="K7gBcvxMt7eLnjjRuQHM-213">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-            <mxGeometry x="12073.35" y="6862.200000000002" width="388.9" height="92.39" as="geometry" />
+            <mxGeometry x="12633.35" y="7363.080000000002" width="388.9" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-214" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-216" target="K7gBcvxMt7eLnjjRuQHM-218">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="12306.949999999999" y="7080.420000000001" as="sourcePoint" />
+            <mxPoint x="12866.949999999999" y="7581.300000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-216" target="K7gBcvxMt7eLnjjRuQHM-237">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="12650" y="8773.710000000001" as="targetPoint" />
+            <mxPoint x="13210" y="9274.59" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="12700" y="7080.710000000001" />
-              <mxPoint x="12700" y="8728.710000000001" />
+              <mxPoint x="13260" y="7581.590000000001" />
+              <mxPoint x="13260" y="9229.59" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-216" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="12226.8" y="7040.785000000002" width="80" height="80" as="geometry" />
+          <mxGeometry x="12786.8" y="7541.665000000002" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-217" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-218" target="K7gBcvxMt7eLnjjRuQHM-220">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-218" value="¿Tiempo de contrato para esta compra?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="12091" y="7203.710000000001" width="350" height="80" as="geometry" />
+          <mxGeometry x="12651" y="7704.590000000001" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-220" target="K7gBcvxMt7eLnjjRuQHM-222">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-220" value="Presupuesto disponible" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="12090.999999999998" y="7343.710000000001" width="350" height="60" as="geometry" />
+          <mxGeometry x="12650.999999999998" y="7844.590000000001" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-221" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-222" target="K7gBcvxMt7eLnjjRuQHM-224">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-222" value="¿Cuenta con contrato vigente?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="12090.999999999998" y="7483.710000000001" width="350" height="76.63" as="geometry" />
+          <mxGeometry x="12650.999999999998" y="7984.590000000001" width="350" height="76.63" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-224" target="K7gBcvxMt7eLnjjRuQHM-228">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-224" value="¿Es proveedor unico?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="12090.999999999998" y="7640.340000000001" width="350" height="50" as="geometry" />
+          <mxGeometry x="12650.999999999998" y="8141.220000000001" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-225" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-228" target="K7gBcvxMt7eLnjjRuQHM-230">
           <mxGeometry relative="1" as="geometry" />
@@ -3006,8 +2996,8 @@
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-228" target="K7gBcvxMt7eLnjjRuQHM-232">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="12584.05" y="7780.630000000001" />
-              <mxPoint x="12584.05" y="8176.629999999999" />
+              <mxPoint x="13144.05" y="8281.51" />
+              <mxPoint x="13144.05" y="8677.509999999998" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3017,87 +3007,87 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-228" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="12225.999999999998" y="7740.340000000001" width="80" height="80" as="geometry" />
+          <mxGeometry x="12785.999999999998" y="8241.220000000001" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-230" target="K7gBcvxMt7eLnjjRuQHM-232">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-230" value="Justifique ¿por qué es proveedor único?" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="12095.999999999998" y="7906.630000000001" width="340" height="80" as="geometry" />
+          <mxGeometry x="12655.999999999998" y="8407.51" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-232" target="K7gBcvxMt7eLnjjRuQHM-234">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-232" value="Detalle del requerimiento del bien o servicio" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="12050.999999999998" y="8136.63" width="430" height="80" as="geometry" />
+          <mxGeometry x="12610.999999999998" y="8637.51" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-234" target="K7gBcvxMt7eLnjjRuQHM-236">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-234" value="Cantidad requerida" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="12050.999999999998" y="8296.630000000001" width="430" height="80" as="geometry" />
+          <mxGeometry x="12610.999999999998" y="8797.51" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="K7gBcvxMt7eLnjjRuQHM-236" target="K7gBcvxMt7eLnjjRuQHM-237">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-236" value="Observaciones" style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="12050.999999999998" y="8456.630000000001" width="430" height="80" as="geometry" />
+          <mxGeometry x="12610.999999999998" y="8957.51" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-237" value="24 Documentos continuidad y otros presupuestos." style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="12052.35" y="8583.710000000001" width="430" height="290" as="geometry" />
+          <mxGeometry x="12612.35" y="9084.59" width="430" height="290" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-238" value="Sección&lt;br&gt;Requisición de compra" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="11770" y="7193.710000000001" width="220" height="1350" as="geometry" />
+          <mxGeometry x="12330" y="7694.590000000001" width="220" height="1350" as="geometry" />
         </mxCell>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-239" value="Sección" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="11774.93" y="8576.1" width="215.07" height="300" as="geometry" />
+          <mxGeometry x="12334.93" y="9076.98" width="215.07" height="300" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-240">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="11610" y="8777.42" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="12170" y="9278.3" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-241">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="11610" y="8676.1" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="12170" y="9176.98" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-242">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="11610" y="8576.1" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="12170" y="9076.98" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-243">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="11580" y="7395.03" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="12140" y="7895.91" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-244">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="11580" y="7293.71" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="12140" y="7794.59" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-245">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="11580" y="7193.71" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="12140" y="7694.59" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-246" value="Sección&lt;br&gt;HABILITANTES" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=default;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="11772.470000000001" y="6683.710000000001" width="220" height="290" as="geometry" />
+          <mxGeometry x="12332.470000000001" y="7184.590000000001" width="220" height="290" as="geometry" />
         </mxCell>
         <object label="Probado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-247">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="11580" y="6895.03" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="12140" y="7395.91" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Creado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-248">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="11580" y="6793.71" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="12140" y="7294.59" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
         <object label="Diseñado" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="K7gBcvxMt7eLnjjRuQHM-249">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="11580" y="6693.71" width="150" height="92.39" as="geometry" />
+            <mxGeometry x="12140" y="7194.59" width="150" height="92.39" as="geometry" />
           </mxCell>
         </object>
       </root>
