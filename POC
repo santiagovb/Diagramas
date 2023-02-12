@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T23:43:53.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0Ng8okc8aKBSd987G68_" version="20.8.20" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-02-12T14:01:13.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RoKVnpVp_8hCp7t4GHWS" version="20.8.20" type="github" pages="16">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="1597" dy="2634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1328,7 +1328,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ob9Qe_SX9qyO72b-_bQ4" name="Powerapps">
-    <mxGraphModel dx="2490" dy="2547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1868" dy="2185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1977,6 +1977,9 @@
         <mxCell id="5tbTQMUPhh8ZXsRL4agi-108" value="&lt;font color=&quot;#000000&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontFamily=Helvetica;fontSize=35;fontColor=#FF0000;fillColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="3790" y="870" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5tbTQMUPhh8ZXsRL4agi-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5tbTQMUPhh8ZXsRL4agi-111" target="5tbTQMUPhh8ZXsRL4agi-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5tbTQMUPhh8ZXsRL4agi-111" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 37px;&quot;&gt;Insumo&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="3870" y="250" width="620.15" height="370" as="geometry" />
         </mxCell>
@@ -1985,6 +1988,15 @@
         </mxCell>
         <mxCell id="5tbTQMUPhh8ZXsRL4agi-113" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 37px;&quot;&gt;PowerApps(mas potente)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3929.85" y="463.76" width="480" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5tbTQMUPhh8ZXsRL4agi-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5tbTQMUPhh8ZXsRL4agi-115" target="5tbTQMUPhh8ZXsRL4agi-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5tbTQMUPhh8ZXsRL4agi-115" value="&lt;span style=&quot;font-size: 37px;&quot;&gt;&lt;b&gt;EBS-LIST&lt;br&gt;Coleccion de datos&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="4640" y="335" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5tbTQMUPhh8ZXsRL4agi-118" value="&lt;span style=&quot;font-size: 37px;&quot;&gt;&lt;b&gt;Aprobaciones&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="392.5" width="290" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
