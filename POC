@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T16:13:57.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="itMiN1LzJ5_yBQUWfbF_" version="20.8.20" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-02-13T16:45:57.976Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3I9y05HWRGdpZPr2f5Hj" version="20.8.20" type="github" pages="16">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="6143" dy="5100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1328,7 +1328,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ob9Qe_SX9qyO72b-_bQ4" name="Powerapps">
-    <mxGraphModel dx="3970" dy="3275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="1970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2085,7 +2085,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fKOu7nx9-gsRqpaStx-Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;" edge="1" parent="1" source="KZGwD3uP6MpySkLMQbdg-38" target="K7gBcvxMt7eLnjjRuQHM-251">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5759" y="6720" />
+              <mxPoint x="9585" y="6720" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <object label="13 Escoja el tipo de presupuesto" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="KZGwD3uP6MpySkLMQbdg-38">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=15;" vertex="1" parent="1">
@@ -3133,21 +3138,6 @@
         </mxCell>
         <mxCell id="fKOu7nx9-gsRqpaStx-Y-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png;" vertex="1" parent="1">
           <mxGeometry x="5700" y="-10" width="190" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="fKOu7nx9-gsRqpaStx-Y-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=36;fontColor=default;" edge="1" parent="1" source="fKOu7nx9-gsRqpaStx-Y-38" target="fKOu7nx9-gsRqpaStx-Y-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fKOu7nx9-gsRqpaStx-Y-38" value="&lt;font size=&quot;1&quot;&gt;[p1,p2,p3,p4]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=37;fontColor=default;fillColor=default;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="5780" y="990" width="120" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="fKOu7nx9-gsRqpaStx-Y-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=36;fontColor=default;" edge="1" parent="1" source="fKOu7nx9-gsRqpaStx-Y-40" target="fKOu7nx9-gsRqpaStx-Y-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fKOu7nx9-gsRqpaStx-Y-40" value="[p3,p4]" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=36;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="5940" y="1063.39" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fKOu7nx9-gsRqpaStx-Y-44" value="[p4]" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=36;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="6120" y="1160.0000000000005" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
