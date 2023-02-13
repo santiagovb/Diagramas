@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T15:24:30.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="frzM0ZURNzfbe_ng5c9s" version="20.8.20" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-02-13T16:13:57.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="itMiN1LzJ5_yBQUWfbF_" version="20.8.20" type="github" pages="16">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
-    <mxGraphModel dx="5830" dy="5093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6143" dy="5100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -769,7 +769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Monese detalle" id="2FFkbSVIfkeXfgH8b2AX">
-    <mxGraphModel dx="794" dy="2652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="2635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YIn4zHmtqpCoENqHHJ5U-0" />
         <mxCell id="YIn4zHmtqpCoENqHHJ5U-1" parent="YIn4zHmtqpCoENqHHJ5U-0" />
@@ -3140,11 +3140,14 @@
         <mxCell id="fKOu7nx9-gsRqpaStx-Y-38" value="&lt;font size=&quot;1&quot;&gt;[p1,p2,p3,p4]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=37;fontColor=default;fillColor=default;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="5780" y="990" width="120" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="fKOu7nx9-gsRqpaStx-Y-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=36;fontColor=default;" edge="1" parent="1" source="fKOu7nx9-gsRqpaStx-Y-40" target="fKOu7nx9-gsRqpaStx-Y-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fKOu7nx9-gsRqpaStx-Y-40" value="[p3,p4]" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=36;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="5940" y="1063.39" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fKOu7nx9-gsRqpaStx-Y-44" value="[p3,p4]" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=36;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="11940" y="2213.3900000000003" width="120" height="60" as="geometry" />
+        <mxCell id="fKOu7nx9-gsRqpaStx-Y-44" value="[p4]" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=36;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="6120" y="1160.0000000000005" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
