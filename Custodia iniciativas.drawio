@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T04:15:42.383Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="c8eckTCmJYLxfPQd9JGY" version="20.8.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-23T20:10:36.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LN5VbwT8UYrlhn-kCY8k" version="20.8.23" type="github" pages="3">
   <diagram id="6qL_FKRn-VJSjgMeZuZw" name="Custodia">
-    <mxGraphModel dx="3023" dy="3025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2743" dy="2794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,10 +148,10 @@
           <mxGeometry x="-540" y="-990" width="70" height="38.56" as="geometry" />
         </mxCell>
         <mxCell id="j8BFSpJScii1_7whwG-S-17" value="KR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;align=center;verticalAlign=middle;fillColor=#b062ff;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="60" y="-928.56" width="70" height="38.56" as="geometry" />
+          <mxGeometry x="17" y="-928.56" width="70" height="38.56" as="geometry" />
         </mxCell>
         <mxCell id="j8BFSpJScii1_7whwG-S-18" value="KR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;align=center;verticalAlign=middle;fillColor=#b062ff;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="60" y="-859.28" width="70" height="38.56" as="geometry" />
+          <mxGeometry x="17" y="-859.28" width="70" height="38.56" as="geometry" />
         </mxCell>
         <mxCell id="j8BFSpJScii1_7whwG-S-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="j8BFSpJScii1_7whwG-S-19" target="j8BFSpJScii1_7whwG-S-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -259,6 +259,24 @@
         </mxCell>
         <mxCell id="XcwF4MdN4JkJzGLjkb79-1" value="Tablero de control" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/modern-set-of-digital-symbols/48/dashboard_overview-128.png;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-406" y="-1034.72" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBKT6t3Z6AEc5iPICIr-1" value="KR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;align=center;verticalAlign=middle;fillColor=#b062ff;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="19" y="-780" width="70" height="38.56" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBKT6t3Z6AEc5iPICIr-2" value="KR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;align=center;verticalAlign=middle;fillColor=#b062ff;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="19" y="-710.72" width="70" height="38.56" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBKT6t3Z6AEc5iPICIr-3" value="KR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;align=center;verticalAlign=middle;fillColor=#b062ff;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="16" y="-626" width="70" height="38.56" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBKT6t3Z6AEc5iPICIr-4" value="KR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;align=center;verticalAlign=middle;fillColor=#b062ff;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="16" y="-548.72" width="70" height="38.56" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBKT6t3Z6AEc5iPICIr-5" value="KR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;align=center;verticalAlign=middle;fillColor=#b062ff;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="18" y="-477.44" width="70" height="38.56" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBKT6t3Z6AEc5iPICIr-6" value="KR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;align=center;verticalAlign=middle;fillColor=#b062ff;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="18" y="-408.16" width="70" height="38.56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
