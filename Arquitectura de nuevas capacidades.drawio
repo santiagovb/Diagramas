@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T22:41:08.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="z1h3FtRMLNwI998dyGE-" version="20.8.20" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-02-23T00:36:39.800Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QkvNfLWVdfYlt25GPG6c" version="20.8.20" type="github" pages="9">
   <diagram id="3MqDR4fMoNlYRUjgd6Yu" name="Objetivo">
     <mxGraphModel dx="1738" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9b5Etznkqo4V-StQW6uw-17" value="Infraestructura cloud" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;strokeColor=#b85450;strokeWidth=0.5;fillColor=#f8cecc;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="415.4" width="330" height="774.6" as="geometry" />
+        </mxCell>
         <object label="Laboratorio Banca Móvil" Nota="Con capacidad para integrarse a ambientes no productivos y corre sobre infraestructura nube en aws&#xa;" id="9b5Etznkqo4V-StQW6uw-11">
           <mxCell style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;strokeWidth=0.5;fillColor=#d5e8d4;verticalAlign=top;horizontal=0;" parent="1" vertex="1">
             <mxGeometry x="285" y="425.4" width="265" height="240" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="9b5Etznkqo4V-StQW6uw-17" value="Infraestructura cloud" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;strokeColor=#b85450;strokeWidth=0.5;fillColor=#f8cecc;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="415.4" width="30" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="9b5Etznkqo4V-StQW6uw-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#969696;strokeWidth=0.5;" parent="1" vertex="1">
           <mxGeometry x="329" y="438.27" width="140" height="194.6" as="geometry" />
         </mxCell>
@@ -266,12 +266,42 @@
         </mxCell>
         <object label="Laboratorio Banca Web" Nota="Con capacidad para integrarse a ambientes no productivos y corre sobre infraestructura nube en aws&#xa;" id="mz-cS70MG1TVv3ALQmiH-1">
           <mxCell style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;strokeWidth=0.5;fillColor=#d5e8d4;verticalAlign=top;horizontal=0;" vertex="1" parent="1">
-            <mxGeometry x="285" y="675.4" width="265" height="154.6" as="geometry" />
+            <mxGeometry x="285" y="675.4" width="265" height="224.6" as="geometry" />
           </mxCell>
         </object>
-        <object label="EKS" Nota="Con capacidad para integrarse a ambientes no productivos y corre sobre infraestructura nube en aws&#xa;" id="mz-cS70MG1TVv3ALQmiH-2">
+        <mxCell id="mz-cS70MG1TVv3ALQmiH-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#969696;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="329" y="685.4" width="140" height="194.6" as="geometry" />
+        </mxCell>
+        <mxCell id="mz-cS70MG1TVv3ALQmiH-4" value="Pilotos Nuevas capacidades" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;strokeColor=#969696;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="339" y="789.66" width="120" height="42.87" as="geometry" />
+        </mxCell>
+        <mxCell id="mz-cS70MG1TVv3ALQmiH-5" value="Pruebas de concepto" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#969696;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="339" y="758.4" width="120" height="25" as="geometry" />
+        </mxCell>
+        <UserObject label="Pruebas de tecnología" id="mz-cS70MG1TVv3ALQmiH-6">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#969696;strokeWidth=0.5;" vertex="1" parent="1">
+            <mxGeometry x="339" y="695.4" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="Devops" id="mz-cS70MG1TVv3ALQmiH-7">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;horizontal=0;strokeColor=#969696;strokeWidth=0.5;" vertex="1" parent="1">
+            <mxGeometry x="508" y="696.77" width="20" height="185.76" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Desarrollo" id="mz-cS70MG1TVv3ALQmiH-8">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;horizontal=0;strokeColor=#969696;strokeWidth=0.5;" vertex="1" parent="1">
+            <mxGeometry x="483" y="696.47" width="20" height="186.06" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="mz-cS70MG1TVv3ALQmiH-9" value="Demos de tecnología" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#969696;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="339" y="730.4" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="mz-cS70MG1TVv3ALQmiH-10" value="Necesidades del negocio" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#969696;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="339" y="839" width="120" height="30" as="geometry" />
+        </mxCell>
+        <object label="Nuevas capacidades a nivel de arquitectura" Nota="Con capacidad para integrarse a ambientes no productivos y corre sobre infraestructura nube en aws&#xa;" id="mz-cS70MG1TVv3ALQmiH-11">
           <mxCell style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;strokeWidth=0.5;fillColor=#d5e8d4;verticalAlign=top;horizontal=0;" vertex="1" parent="1">
-            <mxGeometry x="285" y="840.28" width="265" height="154.6" as="geometry" />
+            <mxGeometry x="282.5" y="907.9" width="265" height="224.6" as="geometry" />
           </mxCell>
         </object>
       </root>
