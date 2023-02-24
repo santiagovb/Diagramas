@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T21:38:56.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Tz11-EnDmOGoZJSznhKb" version="20.8.23" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-02-24T00:15:08.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="TH1mZgoz_8Osi-HBEuzr" version="20.8.23" type="github" pages="16">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
-    <mxGraphModel dx="3562" dy="3744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2787" dy="3303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -769,7 +769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Monese detalle" id="2FFkbSVIfkeXfgH8b2AX">
-    <mxGraphModel dx="794" dy="2635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="678" dy="2586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YIn4zHmtqpCoENqHHJ5U-0" />
         <mxCell id="YIn4zHmtqpCoENqHHJ5U-1" parent="YIn4zHmtqpCoENqHHJ5U-0" />
@@ -1328,14 +1328,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ob9Qe_SX9qyO72b-_bQ4" name="Powerapps">
-    <mxGraphModel dx="2260" dy="2387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2800" dy="2682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;" edge="1" parent="1" source="ZokEQPFDoi5aH-Y2rf_R-13" target="fKOu7nx9-gsRqpaStx-Y-20">
+        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;" parent="1" source="ZokEQPFDoi5aH-Y2rf_R-13" target="fKOu7nx9-gsRqpaStx-Y-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-13" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-13" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="5558.8" y="366.38" width="521.2" height="513.62" as="geometry" />
         </mxCell>
         <mxCell id="fKOu7nx9-gsRqpaStx-Y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=37;fontColor=default;" parent="1" source="fKOu7nx9-gsRqpaStx-Y-20" target="fKOu7nx9-gsRqpaStx-Y-32" edge="1">
@@ -1968,7 +1968,7 @@
         <mxCell id="5tbTQMUPhh8ZXsRL4agi-113" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 37px;&quot;&gt;PowerApps(mas potente)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3979.85" y="525.61" width="480" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=37;" edge="1" parent="1" source="5tbTQMUPhh8ZXsRL4agi-115" target="ZokEQPFDoi5aH-Y2rf_R-7">
+        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=37;" parent="1" source="5tbTQMUPhh8ZXsRL4agi-115" target="ZokEQPFDoi5aH-Y2rf_R-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5tbTQMUPhh8ZXsRL4agi-115" value="&lt;br&gt;&lt;span style=&quot;font-size: 37px;&quot;&gt;&lt;b&gt;Colección&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 37px;&quot;&gt;&amp;nbsp;de datos&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
@@ -2069,7 +2069,7 @@
         <mxCell id="K7gBcvxMt7eLnjjRuQHM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=30;fontColor=default;" parent="1" source="KZGwD3uP6MpySkLMQbdg-36" target="KZGwD3uP6MpySkLMQbdg-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="Por favor adjuntar el correo de solicitud de modificación del área de compras en formato pdf. ������������s" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="KZGwD3uP6MpySkLMQbdg-36">
+        <object label="Por favor adjuntar el correo de solicitud de modificación del área de compras en formato pdf" Nota="Se trata de un reingreso cuando el área de compras solicita realizar un alcance a una solicitud ingresada previamente." id="KZGwD3uP6MpySkLMQbdg-36">
           <mxCell style="whiteSpace=wrap;html=1;fontSize=30;rounded=1;arcSize=19;" parent="1" vertex="1">
             <mxGeometry x="5371.79" y="5970.000000000003" width="770" height="92.39" as="geometry" />
           </mxCell>
@@ -3133,16 +3133,16 @@
         <mxCell id="fKOu7nx9-gsRqpaStx-Y-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png;" parent="1" vertex="1">
           <mxGeometry x="5700" y="-10" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;" edge="1" parent="1" source="ZokEQPFDoi5aH-Y2rf_R-7" target="fKOu7nx9-gsRqpaStx-Y-6">
+        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;" parent="1" source="ZokEQPFDoi5aH-Y2rf_R-7" target="fKOu7nx9-gsRqpaStx-Y-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-7" value="Usuario" style="sketch=0;outlineConnect=0;fontColor=default;gradientColor=none;strokeColor=default;fillColor=default;dashed=0;verticalLabelPosition=bottom;verticalAlign=middle;align=center;html=1;fontSize=37;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-7" value="Usuario" style="sketch=0;outlineConnect=0;fontColor=default;gradientColor=none;strokeColor=default;fillColor=default;dashed=0;verticalLabelPosition=bottom;verticalAlign=middle;align=center;html=1;fontSize=37;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="5160" y="370.85" width="252" height="252" as="geometry" />
         </mxCell>
-        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=37;" edge="1" parent="1" source="ZokEQPFDoi5aH-Y2rf_R-9" target="ZokEQPFDoi5aH-Y2rf_R-7">
+        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=37;" parent="1" source="ZokEQPFDoi5aH-Y2rf_R-9" target="ZokEQPFDoi5aH-Y2rf_R-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-9" value="&lt;br&gt;&lt;span style=&quot;font-size: 37px;&quot;&gt;&lt;b&gt;Colección&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 37px;&quot;&gt;&amp;nbsp;de archivos&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="ZokEQPFDoi5aH-Y2rf_R-9" value="&lt;br&gt;&lt;span style=&quot;font-size: 37px;&quot;&gt;&lt;b&gt;Colección&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 37px;&quot;&gt;&amp;nbsp;de archivos&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="4690" y="712.39" width="360" height="200" as="geometry" />
         </mxCell>
       </root>
