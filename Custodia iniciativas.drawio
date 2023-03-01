@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T18:40:07.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="MDozk8OoWwIxIwXH1_D6" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-01T18:55:00.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Gnuac0tP47ae53TDuD3G" version="20.8.23" type="github" pages="3">
   <diagram id="6qL_FKRn-VJSjgMeZuZw" name="Custodia">
     <mxGraphModel dx="3134" dy="2975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -461,9 +461,6 @@
         <mxCell id="huhScI1nLfrygZuw6J81-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="huhScI1nLfrygZuw6J81-1" target="huhScI1nLfrygZuw6J81-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="huhScI1nLfrygZuw6J81-1" value="APP Movil" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="170" y="30" width="150" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="huhScI1nLfrygZuw6J81-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.638;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" parent="1" source="huhScI1nLfrygZuw6J81-2" target="huhScI1nLfrygZuw6J81-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -477,17 +474,18 @@
         <mxCell id="huhScI1nLfrygZuw6J81-2" value="BackEnd" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="185" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="huhScI1nLfrygZuw6J81-6" value="JWT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="185" y="40" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="huhScI1nLfrygZuw6J81-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="huhScI1nLfrygZuw6J81-8" target="huhScI1nLfrygZuw6J81-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="huhScI1nLfrygZuw6J81-8" value="user/password" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="90" y="290" width="95" height="50" as="geometry" />
+          <mxGeometry x="91" y="286" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="huhScI1nLfrygZuw6J81-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="huhScI1nLfrygZuw6J81-11" target="huhScI1nLfrygZuw6J81-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="huhScI1nLfrygZuw6J81-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="huhScI1nLfrygZuw6J81-11" target="huhScI1nLfrygZuw6J81-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="145" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="huhScI1nLfrygZuw6J81-11" value="JWT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="300" y="270" width="80" height="80" as="geometry" />
@@ -557,6 +555,15 @@
         </mxCell>
         <mxCell id="OM-75ycRIuSvvz6LLGZw-2" value="El código cif que se devue es una carga util donde puede venir mas informacion como el scope." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="400" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-75ycRIuSvvz6LLGZw-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="100" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="huhScI1nLfrygZuw6J81-1" value="APP Movil" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;verticalAlign=top;" parent="OM-75ycRIuSvvz6LLGZw-3" vertex="1">
+          <mxGeometry width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="huhScI1nLfrygZuw6J81-6" value="JWT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="OM-75ycRIuSvvz6LLGZw-3" vertex="1">
+          <mxGeometry x="15" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
