@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T18:37:56.642Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="XbgRETP5YYk4pN4svDgc" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-01T18:40:07.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="MDozk8OoWwIxIwXH1_D6" version="20.8.23" type="github" pages="3">
   <diagram id="6qL_FKRn-VJSjgMeZuZw" name="Custodia">
     <mxGraphModel dx="3134" dy="2975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -555,8 +555,8 @@
         <mxCell id="huhScI1nLfrygZuw6J81-34" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1325" y="550" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OM-75ycRIuSvvz6LLGZw-2" value="el codigo cif que se devue es una carga util donde puede venir mas informacion como el scope." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="OM-75ycRIuSvvz6LLGZw-2" value="El código cif que se devue es una carga util donde puede venir mas informacion como el scope." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
