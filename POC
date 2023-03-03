@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T03:42:37.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CzuwVMov6K_omOjmfwci" version="20.8.23" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-03-03T03:43:57.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="S2555t5i-5G-HS8Vx8z6" version="20.8.23" type="github" pages="16">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="16730" dy="13200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3133,6 +3133,9 @@
         </mxCell>
         <mxCell id="ZokEQPFDoi5aH-Y2rf_R-9" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;Colección&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;&amp;nbsp;de archivos&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="4662" y="529.51" width="360" height="76.24" as="geometry" />
+        </mxCell>
+        <mxCell id="0ztTNrXWoqXi1SLyHxeN-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="5234" y="410" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
