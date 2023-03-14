@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T05:02:19.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="PdXzJu_FEgMDaDExVSEB" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T05:02:32.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="chRly7R3mxYypRxnrYNA" version="21.0.6" type="github">
   <diagram name="Documento de diseño" id="5xXigNw81EJupU0OhcUT">
     <mxGraphModel dx="2922" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -613,9 +613,6 @@
         </mxCell>
         <mxCell id="9TUpL0q0CXCW9BR0KKGh-101" value="Controlador de cuentas de usuario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1B5DAD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-510" y="2080" width="180" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="9TUpL0q0CXCW9BR0KKGh-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1180" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
