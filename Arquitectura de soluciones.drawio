@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T18:13:33.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DRhKwrF-JaRVoi45zJhp" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T19:23:35.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ePVRZavMUCWvRCoHI_5u" version="21.0.6" type="github">
   <diagram name="Documento de diseño" id="5xXigNw81EJupU0OhcUT">
-    <mxGraphModel dx="2390" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3144" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -682,8 +682,8 @@
         <mxCell id="ei7oCXHE7Z7txw9ftO8O-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="ei7oCXHE7Z7txw9ftO8O-21" target="ei7oCXHE7Z7txw9ftO8O-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ei7oCXHE7Z7txw9ftO8O-21" value="Módulo de&amp;nbsp; autenticación" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1B5DAD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="33.5" y="2148" width="127" height="90" as="geometry" />
+        <mxCell id="ei7oCXHE7Z7txw9ftO8O-21" value="Módulo de&amp;nbsp; Autenticación/Autorización" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1B5DAD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="13.75" y="2148" width="166.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ei7oCXHE7Z7txw9ftO8O-22" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ei7oCXHE7Z7txw9ftO8O-23" target="ei7oCXHE7Z7txw9ftO8O-26" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -801,6 +801,9 @@
         </mxCell>
         <mxCell id="m3EWuIJjSTFZ701owP9f-13" value="&lt;br style=&quot;border-color: var(--border-color); font-weight: 700;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-weight: 700;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-weight: 700;&quot;&gt;Sistema de mensajería de texto&lt;br style=&quot;border-color: var(--border-color); font-weight: 700;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-weight: 700;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;El sistema externo de notificación de SMS&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="117" y="2839" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m3EWuIJjSTFZ701owP9f-14" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#1B5DAD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="2300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
