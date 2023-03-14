@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T18:05:14.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oU5ehbq-sWo9Jt1hS44A" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T18:13:33.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DRhKwrF-JaRVoi45zJhp" version="21.0.6" type="github">
   <diagram name="Documento de diseño" id="5xXigNw81EJupU0OhcUT">
-    <mxGraphModel dx="2456" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -698,7 +698,7 @@
         <mxCell id="ei7oCXHE7Z7txw9ftO8O-23" value="Controlador de&amp;nbsp; envio de email" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1B5DAD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="244" y="2378" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ei7oCXHE7Z7txw9ftO8O-24" value="Usa" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ei7oCXHE7Z7txw9ftO8O-25" target="ei7oCXHE7Z7txw9ftO8O-27" edge="1">
+        <mxCell id="ei7oCXHE7Z7txw9ftO8O-24" value="Usa&lt;br&gt;via xml/Soap" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ei7oCXHE7Z7txw9ftO8O-25" target="ei7oCXHE7Z7txw9ftO8O-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="507" y="2512" as="sourcePoint" />
           </mxGeometry>
