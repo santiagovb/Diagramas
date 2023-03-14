@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T03:36:18.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rOa6F84ugDOZoTeXyAPy" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T03:39:28.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6VGSzAdk8X5wY4knnDfB" version="21.0.6" type="github">
   <diagram name="Documento de diseño" id="5xXigNw81EJupU0OhcUT">
-    <mxGraphModel dx="2693" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4876" dy="3080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,8 @@
         <mxCell id="9TUpL0q0CXCW9BR0KKGh-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="552" y="1116" width="180" height="427" as="geometry" />
         </mxCell>
-        <mxCell id="VuIfssemui66-meUsP0t-33" value="&lt;font color=&quot;#4d4d4d&quot;&gt;Sistemad&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;fontColor=#FFFFFF;fontStyle=1;dashed=1;dashPattern=12 12;verticalAlign=bottom;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-870" y="1030" width="467.5" height="680" as="geometry" />
+        <mxCell id="VuIfssemui66-meUsP0t-33" value="&lt;font color=&quot;#4d4d4d&quot;&gt;Sistema de banca por internet&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;fontColor=#FFFFFF;fontStyle=1;dashed=1;dashPattern=12 12;verticalAlign=bottom;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-870" y="1030" width="467.5" height="630" as="geometry" />
         </mxCell>
         <mxCell id="VuIfssemui66-meUsP0t-23" value="Envía mensajes a:" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="VuIfssemui66-meUsP0t-22" target="VuIfssemui66-meUsP0t-5" edge="1">
           <mxGeometry relative="1" as="geometry">
