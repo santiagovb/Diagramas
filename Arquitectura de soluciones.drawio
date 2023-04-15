@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T20:32:07.191Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hUjujgqyMAMj_rGgP_VO" version="21.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-15T20:36:20.417Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dQ31OUkMI2bsIGeyjO2E" version="21.1.7" type="github" pages="4">
   <diagram id="dclz6ynOeKvNhjnTs-2V" name="Elementos y Relaciones">
     <mxGraphModel dx="4347" dy="3650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1608,7 +1608,7 @@
           <mxGeometry x="1760" y="550" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UOBKw5R3rVnve5cjb3nv-68" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="480" y="426.01" width="150" height="103.99" as="geometry" />
+          <mxGeometry x="1930" y="780" width="150" height="103.99" as="geometry" />
         </mxCell>
         <mxCell id="UOBKw5R3rVnve5cjb3nv-64" value="C4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UOBKw5R3rVnve5cjb3nv-68">
           <mxGeometry width="150" height="21.622899578059066" as="geometry" />
