@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T20:09:59.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="FPhvx66ZzN4e81FHKJ_D" version="21.3.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-05-15T20:10:21.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="so9t4RBeeytzQjD_C1KV" version="21.3.2" type="github" pages="15">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="6420" dy="6215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1298,7 +1298,7 @@
         <mxCell id="WXC2aVxRJzvjW0VWopPJ-17" value="Respuesta" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-470" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WXC2aVxRJzvjW0VWopPJ-18" value="fase 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="WXC2aVxRJzvjW0VWopPJ-18" value="Fase 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-830" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WXC2aVxRJzvjW0VWopPJ-19" value="Base original" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
