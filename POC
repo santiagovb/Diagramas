@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T19:27:34.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="WWrumyGwFVLrQFUc6q-U" version="21.3.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-05-16T19:27:57.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="fq6EhvI-H2eL1UrQsbPM" version="21.3.2" type="github" pages="15">
   <diagram id="1rXuji4HhZCkMEAviZ6N" name="Monese">
     <mxGraphModel dx="4563" dy="5243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3720,7 +3720,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WEF6rboY0Lcyf8RvvNKE" name="Análisis Biometrico">
-    <mxGraphModel dx="2228" dy="2266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1061" dy="1655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3844,7 +3844,7 @@
         <mxCell id="1fX275fBwbqA8CgBaENo-19" value="casos de prueba" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="800" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1fX275fBwbqA8CgBaENo-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;" parent="1" source="1fX275fBwbqA8CgBaENo-21" target="1fX275fBwbqA8CgBaENo-52" edge="1">
+        <mxCell id="IL9VYHjF7285xGhnDS6w-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1fX275fBwbqA8CgBaENo-21" target="1fX275fBwbqA8CgBaENo-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1fX275fBwbqA8CgBaENo-21" value="Solicitar requisitos a proveedor" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;" parent="1" vertex="1">
