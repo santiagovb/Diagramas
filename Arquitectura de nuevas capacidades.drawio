@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T19:06:27.283Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="rT6MA8zmwOeq25RsVDam" version="21.6.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-28T19:11:15.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="TPoqbkwxUJtCnua1_cIm" version="21.6.9" type="github" pages="7">
   <diagram id="3MqDR4fMoNlYRUjgd6Yu" name="Objetivo">
-    <mxGraphModel dx="2386" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3185" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,8 +39,8 @@
         <mxCell id="uhsDeSPVpH1Aqg5vOW3z-4" value="Gerencia de innovación" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#337CCF;strokeColor=none;strokeWidth=0.5;align=center;fontColor=#FFFFFF;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-890" y="570.4" width="200" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="uhsDeSPVpH1Aqg5vOW3z-6" value="Celula: Arquitectura de innovación&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFC436;fontColor=default;strokeColor=none;strokeWidth=0.5;align=center;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-890" y="660.4" width="200" height="1139.6" as="geometry" />
+        <mxCell id="uhsDeSPVpH1Aqg5vOW3z-6" value="Celula: Arquitectura de innovación&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFC436;fontColor=default;strokeColor=none;strokeWidth=0.5;align=center;fontSize=12;arcSize=5;" parent="1" vertex="1">
+          <mxGeometry x="-890" y="660.4" width="200" height="1249.6" as="geometry" />
         </mxCell>
         <mxCell id="uhsDeSPVpH1Aqg5vOW3z-10" value="Pruebas de concepto" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=default;strokeWidth=0.5;align=left;fillColor=#FFC436;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="339" y="511.27" width="120" height="25" as="geometry" />
@@ -538,16 +538,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="73FEGfJAsvYaqcxpGc50" name="Infraestructura cloud">
-    <mxGraphModel dx="3870" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="v_ctZ_-kV6EZ920DzSg1" name="Propuestas de negocio desde el area">
-    <mxGraphModel dx="1444" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
